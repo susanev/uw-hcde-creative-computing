@@ -4,4 +4,4 @@ Coming soon ...
 
 [Extremely rough topic list](TopicList.md)
 
-[Fairly rought syllabus](Syllabus.md)
+[Fairly rough syllabus](Syllabus.md)
