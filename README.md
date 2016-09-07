@@ -1,1 +1,3 @@
-# UWHCDE_p5
+# UW HCDE MS p5.js Curriculum
+
+Coming soon ...
