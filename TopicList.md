@@ -1,4 +1,4 @@
-Major Topics
+# Major Topics
 * Environment setup
 * How to use the reference
 * Digital color
@@ -17,13 +17,13 @@ Major Topics
 * Basic overview/introduction to classes/objects
 * Using video
 
-General Course Assignments
+# General Course Assignments
 * Course survey
 * Creating your portfolio
 * Lightbot
 * Personal values
 
-Programming Assignments
+# Programming Assignments
 * Building a robot (exercise)
   * Given the code for a black/white robot; add a customized color scheme and adjust to make it your own
   * Practice using the reference
