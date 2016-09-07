@@ -31,7 +31,7 @@ We want it to be active (keep running) and make our robot move. Notice the two p
 ### What is happening?
 The setup() function runs once, when the program is first run. After the setup() runs, then the draw() function runs over and over again. This redraws the image. The diagram shows what is happening when the Processing engine runs a dynamic program.
 
-[diagram]
+![alt text][diagram]
 
 The way to read this diagram is that the Processing engine starts running setup(), finishes it, starts running draw(), finishes that, and then “goes around, and runs draw() again, again and again … .”
 
