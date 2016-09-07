@@ -6,18 +6,18 @@ General Course Assignments
 
 Programming Assignments
 * Building a robot (exercise)
-..* Given the code for a black/white robot; add a customized color scheme and adjust to make it your own
-..* Practice using the reference
-..* Practice using RGB color values
-..* Understand programming flow
+  * Given the code for a black/white robot; add a customized color scheme and adjust to make it your own
+  * Practice using the reference
+  * Practice using RGB color values
+  * Understand programming flow
 * Taijitu (exercise)
-..* Create a Taijitu using only ellipses and a single rectangle
-..* Problem solving practice
+  * Create a Taijitu using only ellipses and a single rectangle
+  * Problem solving practice
 * Digitize an analog piece of art
-..* Choose an analog 2D art piece (painting, drawing, etc) and recreate it (or a portion of it) in code
-..* RGB color values
-..* Programming flow
-..* Coordinate system
+  * Choose an analog 2D art piece (painting, drawing, etc) and recreate it (or a portion of it) in code
+  * RGB color values
+  * Programming flow
+  * Coordinate system
 * Custom lego family
 * Create a visual representation of a song (exercise)
 * Events (exercise)
