@@ -2,4 +2,4 @@
 
 Coming soon ...
 
-[Extremely rough topic list](https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/TopicList.md)
+[Extremely rough topic list](TopicList.md)
