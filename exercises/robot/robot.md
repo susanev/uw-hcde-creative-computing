@@ -21,11 +21,12 @@ The program you have written so far is static. The Processing code runs, draws y
 
 We want it to be active (keep running) and make our robot move. Notice the two programs on the following page. The one on the left is the static robot, the one on the right is the dynamic version. The new code groups the instructions for the robot into two functions, the setup( ) function and the draw( ) function. Tip: In programming, functions are written with a pair of parentheses after the name. You should make the highlighted changes to your code. 
 
-
-
-
-Original Code
+##Original Code
 Updated, dynamic code
+<img align="left" src="https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/code_not_dynamic.png" alt="Code that is not dynamic">
+
+<img align="right" src="https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/dynamic.png" alt="Code that is dynamic">
+
 
 
 What is happening?
@@ -44,5 +45,4 @@ Remove background(205); from your program, and run it again. Add a comment at th
 Submission
 Make sure your code has the background call added back in before turning in. Then turn in your .pde file on canvas. You should also add this program to your website portfolio. This will be demoed in lab, or you can watch this reference video.
 
-[robot]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/robot.png "Black, white, and gray robot"
 
