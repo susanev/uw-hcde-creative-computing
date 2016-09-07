@@ -2,6 +2,8 @@
 ## Goal 
 This assignment is designed to practice using the Processing language by coloring a robot. And to learn the difference between a static program and a dynamic program. 
 ## Part 1: Color The Robot
+<img align="right" src="https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/robot.png" alt="Black, white, and gray robot">
+
 ![alt text][robot]
 * Type up the robot code (see last page) into a Processing window and run it to make sure it works. 
 * Make the robot more interesting by coloring it with a theme (think sports team, favorite food, or cartoon character).
@@ -44,5 +46,5 @@ Remove background(205); from your program, and run it again. Add a comment at th
 Submission
 Make sure your code has the background call added back in before turning in. Then turn in your .pde file on canvas. You should also add this program to your website portfolio. This will be demoed in lab, or you can watch this reference video.
 
-[robot]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/robot.png "Black, white and gray robot"
+[robot]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/robot.png "Black, white, and gray robot"
 
