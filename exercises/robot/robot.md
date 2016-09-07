@@ -3,8 +3,6 @@
 This assignment is designed to practice using the Processing language by coloring a robot. And to learn the difference between a static program and a dynamic program. 
 ## Part 1: Color The Robot
 <img align="right" src="https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/robot.png" alt="Black, white, and gray robot">
-
-![alt text][robot]
 * Type up the robot code (see last page) into a Processing window and run it to make sure it works. 
 * Make the robot more interesting by coloring it with a theme (think sports team, favorite food, or cartoon character).
 * All parts of the robot should be colored
