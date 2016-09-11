@@ -20,7 +20,7 @@
 
 # General Course Assignments
 * Course survey
-* [Creating your portfolio][porfolio]
+* [Creating your portfolio][portfolio]
 * [Exploring Lightbot][lightbot]
 * [Personal values][personal_values]
 
