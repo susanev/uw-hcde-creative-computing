@@ -55,4 +55,4 @@
 * Data viz
 * Final interactive project
 
-[robot]:(robot.md)
+[robot]:(https://github.com/susanev/2017_Winter_UWHCDE_p5/blob/master/exercises/robot/robot.md)
