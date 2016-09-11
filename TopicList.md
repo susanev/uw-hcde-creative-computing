@@ -20,9 +20,9 @@
 
 # General Course Assignments
 * Course survey
-* Creating your portfolio
-* Lightbot
-* Personal values
+* [Creating your portfolio][porfolio]
+* [Exploring Lightbot][lightbot]
+* [Personal values][personal_values]
 
 # Programming Assignments
 * [Building a robot][robot] (exercise)
@@ -57,4 +57,7 @@
 
 [robot]:/exercises/robot/robot.md
 [taijitu exercise]:/exercises/taijitu/taijitu.md
+[portfolio]:/assignments/general/portfolio.md
+[lightbot]:/assignments/general/lightbot.md
+[personal_values]:/assignments/general/personal_values.md
 
