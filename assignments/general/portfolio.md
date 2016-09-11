@@ -1,4 +1,7 @@
 # Setting up your portfolio (as a UW website)
+The steps below will help you access your UW server space and create your own UW website. If you get stuck on any step please reach out to your instructional staff or check out the 
+[UW web publishing resources](https://itconnect.uw.edu/connect/web-publishing/shared-hosting/)
+
 1. Activate your UW shared web hosting
  * Visit myuw.washington.edu
  * Click on _My Account_ in the upper right corner
@@ -32,6 +35,3 @@
  __Note__:  You should use an image stored on your server space, not a web image; ask for help if you need it!
  * Drag an image (of yourself or something you like) into the Cyberduck window to upload it to your server space
  * Now, go back to the `index.html` file you have open in Brackets and change the code to link to your image instead
-
-If you are looking to learn more or are having trouble, check out the 
-[UW web publishing resources](https://itconnect.uw.edu/connect/web-publishing/shared-hosting/)
