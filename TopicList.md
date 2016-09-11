@@ -24,7 +24,7 @@
 * Personal values
 
 # Programming Assignments
-* Building a robot (exercise)
+* [Building a robot](robot) (exercise)
   * Given the code for a black/white robot; add a customized color scheme and adjust to make it your own
   * Practice using the reference
   * Practice using RGB color values
@@ -53,3 +53,5 @@
 * Color filters
 * Data viz
 * Final interactive project
+
+[robot]:(exercises/robot/robot.md)
