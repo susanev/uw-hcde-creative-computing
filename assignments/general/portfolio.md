@@ -12,8 +12,7 @@
   __Note__: replace netid above, with your own netid 
   You should see a page with some text and an under construction icon
 
-3. Connect to the server using SSH
- * Open Cyberduck
+3. Connect to the server using SSH  * Open Cyberduck
  * Click "Open Connection" in the left hand-corner
  * Select SFTP (SSH File Transfer Protocol) in the drop-down menu at the top
  * Type in vergil.u.washington.edu as the server name
