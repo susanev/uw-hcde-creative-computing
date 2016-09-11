@@ -4,8 +4,8 @@
 The point of this exercise is to have fun and to set the context for the second lecture. Have fun!
 
 ### Part A
-Using the Firefox Web browser, visit [Lightbot](http://coweb.cc.gatech.edu/ice-gt/1835)
-After the opening visuals, click _Play_.  Work through all of the Basic Exercises by clicking on the leftmost square under basics; see red arrow in figure.
+Visit [Lightbot](http://coweb.cc.gatech.edu/ice-gt/1835)
+After the opening visuals, click _Play_.  __Note__: If you are having trouble getting it to work, try using the Firefox browser. Work through all of the Basic Exercises by clicking on the leftmost square under basics; see red arrow in figure.
 
 ![alt text][lightbot]
 
