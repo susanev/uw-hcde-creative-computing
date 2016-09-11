@@ -33,5 +33,5 @@
  * Drag an image (of yourself or something you like) into the Cyberduck window to upload it to your server space
  * Now, go back to the `index.html` file you have open in Brackets and change the code to link to your image instead
 
-
-[More resources](https://itconnect.uw.edu/connect/web-publishing/shared-hosting/)
+If you are looking to learn more or are having trouble, check out the 
+[UW web publishing resources](https://itconnect.uw.edu/connect/web-publishing/shared-hosting/)
