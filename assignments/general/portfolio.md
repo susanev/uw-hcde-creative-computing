@@ -29,9 +29,9 @@
  * Change some of the text on the page, sharing details about yourself or why you are taking this class
 
 5. Add an image
+ __Note__:  You should use an image stored on your server space, not a web image; ask for help if you need it!
  * Drag an image (of yourself or something you like) into the Cyberduck window to upload it to your server space
- * Then change one of the images on your site to be the picture of yourself
- * You should use an image stored on your server space, not a web image; ask for help if you need it!
+ * Now, go back to the index.html file you have open in Brackets and change the code to link to your image instead
 
 
 [More resources](https://itconnect.uw.edu/connect/web-publishing/shared-hosting/)
