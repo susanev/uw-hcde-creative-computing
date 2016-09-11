@@ -48,6 +48,11 @@ Remove `background(205);` from your program, and run it again. Add a block comme
 ## Submission
 Make sure your code has the background call added back in before turning in. Then zip up your project as shown in class and turn it in on canvas. You should also add this program to your website portfolio, as demoed in class, or you can watch this reference video (coming soon).
 
+## Extra Challenge
+If you want to challenge yourself with this project try out any of the items below
+* It seems like the robot is off from where the mouse is, figure out why and fix it
+* Give your robot some extra features, or even a side-kick!
+
 [static]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/code_not_dynamic.png "Code that is not dynamic"
 
 [dynamic]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/code_dynamic.png "Code that is dynamic"
