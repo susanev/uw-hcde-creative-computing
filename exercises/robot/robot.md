@@ -53,12 +53,12 @@ If you want to challenge yourself with this project try out any of the items bel
 * It seems like the robot is off from where the mouse is, figure out why and fix it
 * Give your robot some extra features, or even a side-kick!
 
-[static]: /images/code_not_dynamic.png "Code that is not dynamic"
+[static]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/code_not_dynamic.png "Code that is not dynamic"
 
-[dynamic]: /images/code_dynamic.png "Code that is dynamic"
+[dynamic]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/code_dynamic.png "Code that is dynamic"
 
-[diagram]: /images/diagram.png "diagram showing how setup and draw flow"
+[diagram]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/diagram.png "diagram showing how setup and draw flow"
 
-[part 3 code]: images/part3_code.png "Additional lines of code to add"
+[part 3 code]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/part3_code.png "Additional lines of code to add"
 
 
