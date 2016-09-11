@@ -30,7 +30,7 @@
   * Practice using the reference
   * Practice using RGB color values
   * Understand programming flow
-* Taijitu (exercise)
+* [Taijitu][taijitu exercise] (exercise)
   * Create a Taijitu using only ellipses and a single rectangle
   * Problem solving practice
 * Digitize an analog piece of art (homework #1)
@@ -56,4 +56,5 @@
 * Final interactive project
 
 [robot]:/exercises/robot/robot.md
+[taijitu exercise]:/exercises/taijitu/taijitu.md
 
