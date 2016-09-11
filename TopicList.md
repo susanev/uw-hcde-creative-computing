@@ -1,4 +1,5 @@
 # Major Topics
+* All the languages! Why p5.js?
 * Environment setup
 * How to use the reference
 * Digital color

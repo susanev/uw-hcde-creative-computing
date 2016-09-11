@@ -23,10 +23,9 @@ We want it to be active (keep running) and make our robot move. Notice the two p
 
 ### Original Code
 #### Updated, dynamic code
-<img align="left" src="https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/code_not_dynamic.png" alt="Code that is not dynamic">
+<img src="https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/code_not_dynamic.png" alt="Code that is not dynamic">
 
-<img align="left" src="https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/code_dynamic.png" alt="Code that is dynamic">
-
+<img src="https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/code_dynamic.png" alt="Code that is dynamic">
 
 ### What is happening?
 The setup() function runs once, when the program is first run. After the setup() runs, then the draw() function runs over and over again. This redraws the image. The diagram shows what is happening when the Processing engine runs a dynamic program.
