@@ -9,6 +9,7 @@ This assignment is designed to explain the difference between a static program a
 * Add a comment to every line of your code clearly describing what it does
 ### The Code
 __Note__: It is an image, as we would like you to practice typing out the code instead of practicing your copy/paste skills.
+
 ![alt text][static]
 
 ### Need help?
