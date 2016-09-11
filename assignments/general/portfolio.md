@@ -3,8 +3,8 @@
  * Visit myuw.washington.edu
  * Click on _My Account_ in the upper right corner
  * Click on _Computing Services_ on the left sidebar
- * Check __Dante/Vergil Account__
- * Check __Student Web Publishing__
+ * Check _Dante/Vergil Account_
+ * Check _Student Web Publishing_
  * Click _Subscribe_
 
 2. Browse to your website
@@ -16,15 +16,15 @@
  * Open Cyberduck
  * Click _Open Connection_ in the left hand-corner
  * Select SFTP (SSH File Transfer Protocol) in the drop-down menu at the top
- * Type in __vergil.u.washington.edu__ as the server name
- * Enter __22__ as the Port number
+ * Type in _vergil.u.washington.edu_ as the server name
+ * Enter _22_ as the Port number
  * Enter your netid as your username
  * Enter your netid password as your password
  * Click connect
   If you get an unknown host key popup, click "Allow"
 			
 4. Edit your `index.html` file
- * Double click on the __public_html__ folder
+ * Double click on the public_html folder
  * Right-click on `index.html`, and choose Edit With > Brackets
  * Change some of the text on the page, sharing details about yourself or why you are taking this class
 
