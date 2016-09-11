@@ -7,6 +7,7 @@ This assignment is designed to explain the difference between a static program a
 * Make the robot more interesting by coloring it with a theme (e.g., sports team, favorite food, or cartoon character).
 * Most parts of the robot should be colored with something other than black, white, or gray. Your coloring theme should be unique, please do not copy another person's work, show us your own creativity and style!
 * Add a comment to every line of your code clearly describing what it does
+
 ### The Code
 __Note__: It is an image, as we would like you to practice typing out the code instead of practicing your copy/paste skills.
 
