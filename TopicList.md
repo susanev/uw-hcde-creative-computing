@@ -55,4 +55,4 @@
 * Data viz
 * Final interactive project
 
-[robot]:(exercises/robot/robot.md)
+[robot]:(robot.md)
