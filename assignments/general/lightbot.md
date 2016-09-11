@@ -15,6 +15,7 @@ Work through the first 3 Recursion Exercises. These are a little more interestin
 ### Part C [Optional]
 Try Recursion Exercise 4. This is a more challenging problem, but definitely not impossible.
 
+## Submission
 When you finish the assignment you should submit a screenshot (`.jpg`, or `.png`) on Canvas. If you need help taking a screenshot, ask!
 
 [lightbot]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/assignments/general/images/lightbot.png "Lightbot screen for Part A"
