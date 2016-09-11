@@ -1,11 +1,11 @@
 # Setting up your portfolio (as a UW website)
 1. Activate your UW shared web hosting
  * Visit myuw.washington.edu
- * Click on "My Account" in the upper right corner
- * Click on "Computing Services" on the left sidebar
- * Check Dante/Vergil Account
- * Check Student Web Publishing
- * Click "Subscribe"
+ * Click on _My Account_ in the upper right corner
+ * Click on _Computing Services_ on the left sidebar
+ * Check __Dante/Vergil Account__
+ * Check __Student Web Publishing__
+ * Click _Subscribe_
 
 2. Browse to your website
  * Open a browser and visit http://students.washington.edu/netid/  
@@ -14,24 +14,24 @@
 
 3. Connect to the server using SSH
  * Open Cyberduck
- * Click "Open Connection" in the left hand-corner
+ * Click _Open Connection_ in the left hand-corner
  * Select SFTP (SSH File Transfer Protocol) in the drop-down menu at the top
- * Type in vergil.u.washington.edu as the server name
- * Enter 22 as the Port number
+ * Type in __vergil.u.washington.edu__ as the server name
+ * Enter __22__ as the Port number
  * Enter your netid as your username
  * Enter your netid password as your password
  * Click connect
   If you get an unknown host key popup, click "Allow"
 			
-4. Edit your index.html file
- * Double click on the public_html folder
- * Right-click on index.html, and choose Edit With > Brackets
+4. Edit your `index.html` file
+ * Double click on the __public_html__ folder
+ * Right-click on `index.html`, and choose Edit With > Brackets
  * Change some of the text on the page, sharing details about yourself or why you are taking this class
 
 5. Add an image  
  __Note__:  You should use an image stored on your server space, not a web image; ask for help if you need it!
  * Drag an image (of yourself or something you like) into the Cyberduck window to upload it to your server space
- * Now, go back to the index.html file you have open in Brackets and change the code to link to your image instead
+ * Now, go back to the `index.html` file you have open in Brackets and change the code to link to your image instead
 
 
 [More resources](https://itconnect.uw.edu/connect/web-publishing/shared-hosting/)
