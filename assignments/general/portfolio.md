@@ -8,7 +8,7 @@
  * Click "Subscribe"
 
 2. Browse to your website
- * Open a browser and visit http://students.washington.edu/netid/
+ * Open a browser and visit http://students.washington.edu/netid/  
   __Note__: replace netid above, with your own netid 
   You should see a page with some text and an under construction icon
 
