@@ -53,6 +53,9 @@ If you want to challenge yourself with this project try out any of the items bel
 * It seems like the robot is off from where the mouse is, figure out why and fix it
 * Give your robot some extra features, or even a side-kick!
 
+## Reference
+This assignment is inspired by the robot code provided by [Casey Reas](http://reas.com/) and [Ben Fry](http://benfry.com/) in the Make:Getting Started with Processing book.
+
 [static]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/code_not_dynamic.png "Code that is not dynamic"
 
 [dynamic]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/code_dynamic.png "Code that is dynamic"
