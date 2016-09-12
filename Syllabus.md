@@ -6,7 +6,7 @@ __Course Title__: Computer Science Fundamentals with p5.js
 
 __Offering__: Winter 2017
 
-__Class__: [150 minutes]: Monday 6:00 – 8:30, TBD
+__Class__: [150 minutes]: Mondays 6:00 – 8:30, TBD
 
 __Holidays__: No class on 01/16 (Martin Luther King Day) and 02/20 (Presidents Day)
 
