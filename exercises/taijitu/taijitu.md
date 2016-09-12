@@ -14,3 +14,6 @@ Make sure your code is indented correctly and that most of your lines of code ha
 ## Extra Challenge
 If you want to challenge yourself with this project try out any of the items below
 * The Taijitu your wrote is probably static, using the robot exercise as a guide, add code that allows the taijitu to follow your mouse as you move it around the screen
+
+## Reference
+This assignment is inspired by a blog post on the [Joy of Processing](http://joyofprocessing.com/) created by Jim Bumgardner.

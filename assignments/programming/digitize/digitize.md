@@ -29,5 +29,5 @@ This assignment is designed to explain the difference between a static program a
 ## Submission
 Make sure your code has a comment on most everyline and that your reference image is included in your project file. Then zip up your project and turn it in on canvas. You should also add this program to your website portfolio.
 
-## References
-This assignment is inspired by the assignment, "Port an Image to Code" created by Chandler McWilliams, Casey Reas, and Lauren McCarthy
+## Reference
+This assignment is inspired by the assignment, "Port an Image to Code" created by Chandler McWilliams, Casey Reas, and Lauren McCarthy.
