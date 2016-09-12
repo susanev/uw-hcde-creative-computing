@@ -33,7 +33,7 @@
 * [Taijitu][taijitu exercise] (exercise)
   * Create a Taijitu using only ellipses and a single rectangle
   * Problem solving practice
-* Digitize an analog piece of art (homework #1)
+* [Digitize an analog piece of art][digitize] (homework #1)
   * Choose an analog 2D art piece (painting, drawing, etc) and recreate it (or a portion of it) in code
   * RGB color values
   * Programming flow
@@ -55,9 +55,11 @@
 * Data viz
 * Final interactive project
 
-[robot]:/exercises/robot/robot.md
-[taijitu exercise]:/exercises/taijitu/taijitu.md
 [portfolio]:/assignments/general/portfolio.md
 [lightbot]:/assignments/general/lightbot.md
 [personal_values]:/assignments/general/personal_values.md
+
+[robot]:/exercises/robot/robot.md
+[taijitu exercise]:/exercises/taijitu/taijitu.md
+[digitize]:/assignments/programming/digitize/digitize.md
 
