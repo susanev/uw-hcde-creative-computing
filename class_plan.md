@@ -60,7 +60,6 @@
 * What to learn next
 
 # Programming Assignments
-
 * Responsive face (exercise)
   * Create a face (human, robot, animal, etc). Using a sound library, variables, and conditionals program it to react to different sound levels
   * Functions should be used to represent each portion of the face
