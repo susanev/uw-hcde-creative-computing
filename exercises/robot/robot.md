@@ -1,6 +1,6 @@
 # Building a Robot
 ## Goal 
-This assignment is designed to explain the difference between a static program and a dynamic program and to practice using the Processing language by coloring a robot. 
+This exercise is designed to explain the difference between a static program and a dynamic program and to practice using the Processing language by coloring a robot. 
 ## Part 1: Color The Robot
 <img align="right" src="https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/robot.png" alt="Black, white, and gray robot">
 * Program the code given below in your own p5.js sketch. Run it after every few lines to make sure you did not mistype and create an error. 
