@@ -1,10 +1,34 @@
-# Major Topics
+# Class Plan
+## Pre-class 1
+* Course survey
+* [Creating your portfolio][portfolio]
+* [Exploring Lightbot][lightbot]
+* [Personal values][personal_values]
+
 ## Class 1
+### Topics
 * All the languages! Why p5.js?
 * Environment setup
 * How to use the reference
 * Digital color
 * Coordinate system
+
+### In-class exercises
+* [Building a robot][robot] 
+  * Given the code for a black/white robot; add a customized color scheme and adjust to make it your own
+  * Practice using the reference
+  * Practice using RGB color values
+  * Understand programming flow
+* [Taijitu][taijitu exercise] 
+  * Create a Taijitu using only ellipses and a single rectangle
+  * Problem solving practice
+
+### Homework assignments
+* [Digitize an analog piece of art][digitize] 
+  * Choose an analog 2D art piece (painting, drawing, etc) and recreate it (or a portion of it) in code
+  * RGB color values
+  * Programming flow
+  * Coordinate system
 
 ## Class 2
 * Programming Flow
@@ -35,26 +59,8 @@
 * Final project presentations
 * What to learn next
 
-# General Course Assignments
-* Course survey
-* [Creating your portfolio][portfolio]
-* [Exploring Lightbot][lightbot]
-* [Personal values][personal_values]
-
 # Programming Assignments
-* [Building a robot][robot] (exercise)
-  * Given the code for a black/white robot; add a customized color scheme and adjust to make it your own
-  * Practice using the reference
-  * Practice using RGB color values
-  * Understand programming flow
-* [Taijitu][taijitu exercise] (exercise)
-  * Create a Taijitu using only ellipses and a single rectangle
-  * Problem solving practice
-* [Digitize an analog piece of art][digitize] (homework #1)
-  * Choose an analog 2D art piece (painting, drawing, etc) and recreate it (or a portion of it) in code
-  * RGB color values
-  * Programming flow
-  * Coordinate system
+
 * Responsive face (exercise)
   * Create a face (human, robot, animal, etc). Using a sound library, variables, and conditionals program it to react to different sound levels
   * Functions should be used to represent each portion of the face
