@@ -1,22 +1,39 @@
 # Major Topics
+## Class 1
 * All the languages! Why p5.js?
 * Environment setup
 * How to use the reference
 * Digital color
 * Coordinate system
+
+## Class 2
 * Programming Flow
 * Functions and parameters
+
+## Class 3
+* Conditional statements
 * Events
 * Variables
 * Using rand, max, min
+
+## Class 4
 * Using fonts
 * Using media (images, sound)
-* Conditional statements
 * Loops
+
+## Class 5
 * Arrays
+
+## Class 6
 * Data visuzlization and reading from a file
+
+## Class 7
 * Basic overview/introduction to classes/objects
 * Using video
+
+## Class 8
+* Final project presentations
+* What to learn next
 
 # General Course Assignments
 * Course survey
