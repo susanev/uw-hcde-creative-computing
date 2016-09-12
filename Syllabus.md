@@ -80,7 +80,7 @@ All of the expressions of ideas in this class that are fixed in any tangible med
 ### Privacy
 To support an academic environment of rigorous discussion and open expression of personal thoughts and feelings, we, as members of the academic community, must be committed to the inviolate right of privacy of our student and instructor colleagues. As a result, we must forego sharing personally identifiable information about any member of our community including information about the ideas they express, their families, lifestyles and their political and social affiliations. If you have any questions regarding whether a disclosure you wish to make regarding anyone in this course or in the university community violates that person's privacy interests, please feel free to ask the instructor for guidance.
 
-Knowing violations of these principles of academic conduct, privacy or copyright may result in University disciplinary action under the Student Code of Conduct.
+Knowingly violating any of these principles of academic conduct, privacy or copyright may result in University disciplinary action under the Student Code of Conduct.
 
 ## Accessibility
 To request academic accommodations due to a disability, please contact Disabled Student Services: 448 Schmitz, 206-543-8924 (V/TTY). If you have a letter from DSS indicating that you have a disability which requires academic accommodations, please present the letter to me so we can discuss the accommodations you might need in the class.
