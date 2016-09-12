@@ -14,7 +14,7 @@ __Credit Hours__: 2
 
 __Prerequisites__: None
 
-__Description__: Students will explore the essentials of Computer Science including: creativity of computing, processing of data, abstraction, managing complexity, computational thinking, algorithms, programming (using p5.js), debugging, and multimedia.
+__Description__: Students will explore the essentials of Computer Science including: creativity of computing, processing of data, abstraction, managing complexity, computational thinking, algorithms, programming, debugging, and multimedia.
 
 __Final__: No standard final, instead a final project.
 
