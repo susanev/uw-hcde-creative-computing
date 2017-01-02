@@ -3,7 +3,7 @@ _HCDE 598 Winter 2017_
 # Creating Your Portfolio
 These steps will guide you through setting up your portfolio on [Github](https://github.com/). These instructions are more complicated than we would like, if you have any trouble at all please reach out to your instructor.
 
-You can either complete the steps by following the text described here, or watching along in the [video]().
+You can either complete the steps by following the text described here, or watching along in the [video](https://drive.google.com/file/d/0B9p__2Sb-Kn-NjA2bFkyUE5BVW8/view?usp=sharing).
 
 ## Create your portfolio repository
 1. Login to [Github](https://github.com/)
