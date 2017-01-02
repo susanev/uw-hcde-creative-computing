@@ -1,4 +1,4 @@
-# UW HCDE MS p5.js Curriculum
+# UW HCDE MS Creative Computing Curriculum
 
 ## Course Description
 Students will explore the essentials of Computer Science including: creativity of computing, processing of data, abstraction, managing complexity, computational thinking, algorithms, programming, debugging, and multimedia.
@@ -25,5 +25,5 @@ Students will explore the essentials of Computer Science including: creativity o
 * Physics simulations
 
 ## Course Documents
-* [Class Plan](class_plan.md)
-* [Syllabus](Syllabus.md)
+* [Syllabus](syllabus.md)
+* [Lessons](lessons)

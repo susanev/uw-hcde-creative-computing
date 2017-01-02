@@ -1,6 +1,6 @@
 # Class Plan
 ## Pre-class 1
-* Course survey
+* [Course survey](https://goo.gl/forms/kjdQvKnmWT7DBY3T2)
 * [Creating your portfolio][portfolio]
 * [Exploring Lightbot][lightbot]
 * [Personal values][personal_values]
