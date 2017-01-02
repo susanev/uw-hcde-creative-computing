@@ -30,6 +30,6 @@ You can either complete the steps by following the text described here, or watch
 1. Congratulate yourself on setting up your portfolio website, this website is live and you can share the link with others. We will be posting our class projects to our portfolios throughout the quarter.
 
 ## Extension
-_This is optional, but encouraged if you have some extra time._
+_This is optional, but encouraged if you have some extra time_
 
 * Try out codecademy's [HTML Course](https://www.codecademy.com/courses/html-one-o-one/0/1) to learn the syntax for your `index.html` file
