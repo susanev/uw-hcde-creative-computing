@@ -7,14 +7,14 @@ You can either complete the steps by following the text described here, or watch
 
 ## Create your portfolio repository
 1. Login to [Github](https://github.com/)
-1. Click the + in the upper-right corner and choose _New repository_
+1. Click the `+` in the upper-right corner and choose _New repository_
 1. Fill in a repository name (e.g., portfolio, hcde-portfolio, etc)
 1. Check _Initialize this repository with a README_
 1. Click _Create repository_
 
 ## Update your default branch
 1. Click _Branch: master_ on the left-side, type _gh-pages_ intro the text box, and press enter
-1. Click _Settings_, Click _Branches, in the _Default branch_ drop-down select _gh-pages_
+1. Click _Settings_, Click _Branches_, in the _Default branch_ drop-down select _gh-pages_
 1. Click _Update_, and then click _I understand, update the default branch._
 1. Click _Code_
 1. Click _2 branches_
