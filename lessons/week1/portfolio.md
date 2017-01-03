@@ -24,7 +24,7 @@ You can either complete the steps by following the text described here, or watch
 1. Click _Create new file_
 1. Name it `index.html`
 1. Add in a portfolio title and an introduction paragraph about yourself
-1. Click "Commit new file" at the bottom of the page
+1. Click _Commit new file_ at the bottom of the page
 
 ## Viewing your portfolio
 1. Navigate to https://username.github.io/repositoryname/ where you replace _username_ with your github username, and replace _repsoitoryname_ with your repository name
