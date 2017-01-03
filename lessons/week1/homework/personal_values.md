@@ -14,7 +14,7 @@ Think about the things that are important to who you are. Some ideas to get your
 
 Pick two or three of your most important values, and write about why they are important to you. What makes them matter to you? Explain how they define who you are. 
 
-Start by taking notes or brainstorming a list of what you value. Then move to a computer and type up your response. For full credit your paper should be around a page single-spaced, but feel free to write more. You may also include some graphics in your paper to help explain your values (this is not required).
+Start by taking notes or brainstorming a list of what you value. Then move to a computer and type up your response. For full credit your response should be around a page single-spaced, but feel free to write more. You may also include some graphics in your paper to help explain your values (this is not required).
 
 ### Submission
-Your personal values paper should be submitted on Canvas as a `.pdf`. If you need help creating a `.pdf` let us know.
+Your personal values paper should be submitted on [Canvas](https://canvas.uw.edu/courses/1099807/assignments/3544127) as a `.pdf`. If you need help creating a `.pdf` let us know.

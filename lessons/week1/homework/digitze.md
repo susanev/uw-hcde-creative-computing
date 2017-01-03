@@ -13,7 +13,7 @@ Locate a piece of art that inspires you, for this project it is best if you choo
 * [Artstror](http://offcampus.lib.washington.edu/login?url=http://www.artstor.org/index.shtml) Note: You will need to login with your UW netid for full access
 * [Oxford Art Online](http://offcampus.lib.washington.edu/login?url=http://www.oxfordartonline.com/) Note: You will need to login with your UW netid for full access
 
-Download the image, and decide either to reproduce the entire artwork or select a crop of the artwork (this is best for artworks with lots of details). If you need help croping your image, reach out to your instructional team. You will need to turn in this image, so make sure to save it or the crop that you make.
+Download the image, and decide either to reproduce the entire artwork or select a crop of the artwork (this is best for artworks with lots of details). If you need help cropping your image, reach out to your instructional team. You will need to turn in this image, so make sure to save it or the crop that you make.
 
 ### Part 2: Make a Plan
 Plan out what shapes you will use in p5.js to represent the shapes in the artwork, draw it out by hand so you have a guide to work from. 
