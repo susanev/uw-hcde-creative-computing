@@ -3,6 +3,7 @@ _HCDE 598 Winter 2017_
 # Week 1
 
 ## Prep Work
+* Review the [syllabus](https://github.com/susanev/uw-hcde-creative-computing/blob/master/syllabus.md)
 * Complete the [Course survey](https://goo.gl/forms/kjdQvKnmWT7DBY3T2)
 * Join our [slack channel](https://hcde598-winter-2017.slack.com) and introduce yourself
 * Create a [Github](https://github.com/) account

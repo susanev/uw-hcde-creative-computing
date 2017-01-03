@@ -62,6 +62,6 @@ This assignment is inspired by the robot code provided by [Casey Reas](http://re
 
 [diagram]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/lessons/week1/exercises/images/diagram.png "diagram showing how setup and draw flow"
 
-[part 3 code]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/lessons/week1/exercises/images/part3_code.png "Additional lines of code to add"
+[part 3 code]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/lessons/week1/exercises/images/part3_code.png "Additional lines of code to add"
 
 
