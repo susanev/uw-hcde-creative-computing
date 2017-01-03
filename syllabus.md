@@ -8,7 +8,7 @@ __Course Title__: Introduction to Computational Concepts
 
 __Offering__: Winter 2017
 
-__Class__: [150 minutes]: Mondays 6:00 – 8:50, [MGH 058](https://www.washington.edu/classroom/MGH+058)
+__Class__: [150 minutes] Mondays 6:00 – 8:50, [MGH 058](https://www.washington.edu/classroom/MGH+058)
 
 __Holidays__: No class on 01/16 (Martin Luther King Day) and 02/20 (Presidents Day)
 
