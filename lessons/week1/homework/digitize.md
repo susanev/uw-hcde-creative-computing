@@ -31,4 +31,4 @@ In most situations we expect you to use many different kinds of p5.js functions 
 Make sure your code has a comment on most every line and that your reference image is included in your project file. Then zip up your project and turn it in on [canvas](https://canvas.uw.edu/courses/1099807/assignments/3544132). You should also add this program to your website portfolio.
 
 ### Reference
-This assignment is inspired by the assignment, "Port an Image to Code" created by [Chandler McWilliams](http://chandlermcwilliams.com/), [Casey Reas](http://reas.com/), and [Lauren McCarthy](http://lauren-mccarthy.com/).
+This assignment is inspired by the assignment, _Port an Image to Code_ created by [Chandler McWilliams](http://chandlermcwilliams.com/), [Casey Reas](http://reas.com/), and [Lauren McCarthy](http://lauren-mccarthy.com/).
