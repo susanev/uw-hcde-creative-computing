@@ -1,4 +1,6 @@
-# HCDE ? Course Syllabus
+_HCDE 598 Winter 2017_
+
+# HCDE 598 Course Syllabus
 ## Catalog Information
 __Course Number__: HCDE 598
 

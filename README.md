@@ -1,3 +1,5 @@
+_HCDE 598 Winter 2017_
+
 # UW HCDE MS Creative Computing Curriculum
 
 ## Course Description

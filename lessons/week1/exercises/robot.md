@@ -2,7 +2,7 @@
 ## Goal 
 This exercise is designed to explain the difference between a static program and a dynamic program and to practice using the Processing language by coloring a robot. 
 ## Part 1: Color The Robot
-<img align="right" src="https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/robot.png" alt="Black, white, and gray robot">
+<img align="right" src="https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/lessons/week1/exercises/images/robot.png" alt="Black, white, and gray robot">
 * Program the code given below in your own p5.js sketch. Run it after every few lines to make sure you did not mistype and create an error. 
 * Make the robot more interesting by coloring it with a theme (e.g., sports team, favorite food, or cartoon character).
 * Most parts of the robot should be colored with something other than black, white, or gray. Your coloring theme should be unique, please do not copy another person's work, show us your own creativity and style!
@@ -56,12 +56,12 @@ If you want to challenge yourself with this project try out any of the items bel
 ## Reference
 This assignment is inspired by the robot code provided by [Casey Reas](http://reas.com/) and [Ben Fry](http://benfry.com/) in the Make:Getting Started with Processing book.
 
-[static]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/code_not_dynamic.png "Code that is not dynamic"
+[static]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/lessons/week1/exercises/images/code_not_dynamic.png "Code that is not dynamic"
 
-[dynamic]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/code_dynamic.png "Code that is dynamic"
+[dynamic]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/lessons/week1/exercises/images/code_dynamic.png "Code that is dynamic"
 
-[diagram]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/diagram.png "diagram showing how setup and draw flow"
+[diagram]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/lessons/week1/exercises/images/diagram.png "diagram showing how setup and draw flow"
 
-[part 3 code]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/exercises/robot/images/part3_code.png "Additional lines of code to add"
+[part 3 code]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/lessons/week1/exercises/images/part3_code.png "Additional lines of code to add"
 
 
