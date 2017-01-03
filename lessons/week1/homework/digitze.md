@@ -27,10 +27,8 @@ Write your static code (no draw function needed) in p5.js making sure to include
 
 In most situations we expect you to use many different kinds of p5.js functions including but not limited to line, triangle, quad, rect, ellipse, arc, stroke, fill, and background. 
 
-This assignment is designed to explain the difference between a static program and a dynamic program and to practice using the Processing language by coloring a robot. 
-
 ### Submission
-Make sure your code has a comment on most everyline and that your reference image is included in your project file. Then zip up your project and turn it in on canvas. You should also add this program to your website portfolio.
+Make sure your code has a comment on most every line and that your reference image is included in your project file. Then zip up your project and turn it in on [canvas](https://canvas.uw.edu/courses/1099807/assignments/3544132). You should also add this program to your website portfolio.
 
 ### Reference
 This assignment is inspired by the assignment, "Port an Image to Code" created by [Chandler McWilliams](http://chandlermcwilliams.com/), [Casey Reas](http://reas.com/), and [Lauren McCarthy](http://lauren-mccarthy.com/).
