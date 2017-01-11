@@ -49,7 +49,7 @@ The instructions go inside of `draw()` – right after the `draw()` function and
 Remove `background(205);` from your program, and run it again. Add a block comment at the top of your program that clearly explains what is happening when you remove the background line of code and what happens when you put it back in. Need help understanding this? Reach out to us!
 
 ### Submission
-Make sure your code has the background call added back in before submitting. Add this project to your github portfolio and submit a link to your project on canvas.
+Make sure your code has the background call added back in before submitting and add this project to your github portfolio.
 
 ### Extra Challenge
 If you want to challenge yourself with this project try out any of the items below
