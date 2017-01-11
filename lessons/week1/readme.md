@@ -50,4 +50,4 @@ _HCDE 598 Winter 2017_
 
 ## Homework
 * [Personal values](homework/personal_values.md) Due Sunday, 01/15
-* [Digitize an analog piece of art](homework/digitize.md) Due Friday, 01/20
+* [Digitize an analog piece of art](homework/digitize.md) Due Saturday, 01/21
