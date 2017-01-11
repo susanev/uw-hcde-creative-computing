@@ -45,8 +45,9 @@ _HCDE 598 Winter 2017_
 * What can be improved for future classes?
 
 ## Resources
-_Coming soon_
+* [How to add projects to your Github portfolio video](https://youtu.be/M-bNnVwBHUY)
+* [Week 1 exercises Video](https://youtu.be/TNEm5U8tnhQ)
 
 ## Homework
-* [Personal values](homework/personal_values.md)
-* [Digitize an analog piece of art](homework/digitize.md)
+* [Personal values](homework/personal_values.md) Due Sunday, 01/15
+* [Digitize an analog piece of art](homework/digitize.md) Due Friday, 01/20
