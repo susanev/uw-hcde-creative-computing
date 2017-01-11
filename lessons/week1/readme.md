@@ -46,7 +46,8 @@ _HCDE 598 Winter 2017_
 
 ## Resources
 * [How to add projects to your Github portfolio video](https://youtu.be/M-bNnVwBHUY)
-* [Week 1 exercises Video](https://youtu.be/TNEm5U8tnhQ)
+* [Week 1 exercises video](https://youtu.be/TNEm5U8tnhQ)
+* [Week 1 homework video](https://youtu.be/QhvBb-69quY)
 
 ## Homework
 * [Personal values](homework/personal_values.md) Due Sunday, 01/15
