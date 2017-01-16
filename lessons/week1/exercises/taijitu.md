@@ -12,10 +12,9 @@ Create a Taijitu using p5.js similar to the one shown at right. You are limited 
 You may work together with others in class but make sure you fully understand your own solution.
 
 ### Submission
-Make sure your code is indented correctly and that most of your lines of code have a comment, then zip up your project and turn it in on canvas. Don't forget to also add this to your portfolio.
+Make sure your code is indented correctly and that most of your lines of code have a comment, then add this project to your portfolio.
 
 ### Extra Challenge
-If you want to challenge yourself with this project try out any of the items below
 * The Taijitu your wrote is probably static, using the robot exercise as a guide, add code that allows the taijitu to follow your mouse as you move it around the screen
 
 ### Reference
