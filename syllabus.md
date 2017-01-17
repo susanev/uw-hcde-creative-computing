@@ -34,7 +34,7 @@ __Final__: No standard final, instead a final project.
 * Course discussion (slack): [https://hcde598-winter-2017.slack.com](https://hcde598-winter-2017.slack.com)
 * Course materials: [https://github.com/susanev/uw-hcde-creative-computing](https://github.com/susanev/uw-hcde-creative-computing)
 * Assignment Submissions (canvas): [https://canvas.uw.edu/courses/1099807](https://canvas.uw.edu/courses/1099807)
-* Anonymous feedback form: [https://goo.gl/forms/qtJMTzy4JF8iXOY32](https://goo.gl/forms/ZYKxivzlwH0N3tWz2)
+* Anonymous feedback form: [https://goo.gl/forms/S8Cy2ltDc3GQWMCq2](https://goo.gl/forms/S8Cy2ltDc3GQWMCq2)
 
 Students are expected to check Slack daily for announcements, discussions, and assignments.
 
