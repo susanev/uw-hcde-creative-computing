@@ -32,7 +32,7 @@ _HCDE 598 Winter 2017_
 * What can be improved for future classes?
 
 ## Resources
-... coming soon.
+* [Code examples](code)
 
 ## Homework
 * [Custom Lego family](homework/lego-family.md) Due Saturday, 01/28, 9pm
