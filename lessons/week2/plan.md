@@ -23,6 +23,9 @@ _HCDE 598 Winter 2017_
 * Checking grades on Canvas
 * Github curriculum overview
 * Quick introduction to rgb
+	* R+G = Yellow
+	* R+B = Magenta
+	* G+B = Cyan
 
 ### Digitize Review (30 minutes)
 * Review common mistakes
