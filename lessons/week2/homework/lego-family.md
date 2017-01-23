@@ -1,5 +1,5 @@
 _HCDE 598 Winter 2017_
-# Week 1 Homework
+# Week 2 Homework
 
 ## Lego Family
 _Due Saturday, 01/28, at 9pm_
