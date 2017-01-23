@@ -2,7 +2,7 @@ _HCDE 598 Winter 2017_
 # Week 2 Homework
 
 ## Lego Family
-_Due Saturday, 01/28, at 9pm_
+_[Due Saturday, 01/28, at 9pm](https://canvas.uw.edu/courses/1099807/assignments/3586665)_
 
 ### Goals
 You will program your very own Lego family. You can base it off a TV show (Simpsons is shown below), a movie, a comic, or even your own family if you want. Check [Imagine by Lego](https://www.prote.in/journal/articles/imagine-by-lego) for more inspiration. This assignment will also help you practice with functions, variables, declarations and assignment statements. These ideas help make computations dynamic in interesting ways.
@@ -57,7 +57,7 @@ You will program your very own Lego family. You can base it off a TV show (Simps
 	* Finally, you will want to program your family to stop once it has reached the center
 	* To do this you will want to use the `min` or `max` functions as shown in class
 
-### Submission
+### [Submission](https://canvas.uw.edu/courses/1099807/assignments/3586665)
 * Your code should have a top comment block with your name, last edited date, and a brief description of the entire program
 * Each line in setup and draw should have a comment
 * Each function that you created should have a top comment briefly explaining what that function does (note that setup and draw do not need top comments)
