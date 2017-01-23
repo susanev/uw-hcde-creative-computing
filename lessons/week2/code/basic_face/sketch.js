@@ -1,3 +1,8 @@
+/*  Originally created by Alysse Galo
+    Modified by Susan Evans
+    Last edited 01/22/2017
+*/
+
 function setup(){
   noStroke();
   createCanvas(500, 500);
