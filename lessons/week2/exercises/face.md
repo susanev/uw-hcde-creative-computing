@@ -2,8 +2,10 @@ _HCDE 598 Winter 2017_
 # Week 2 Exercise
 
 ## Face
+
 ### Goals
-* Practice using functions by creative a face
+* Practice collaborating in code with others
+* Practice using functions by creating a face
 * Practice using variables and conditional statements
 * Explore the sound library
 
@@ -17,7 +19,5 @@ You may work together with others in class but make sure you fully understand yo
 ### Submission
 Make sure your code is indented correctly and that most of your lines of code have a comment, then each partner should add this project to their Github portfolio.
 
-### Extra Challenge
-
-
 ### Reference
+[Bla Bla Bla](https://vimeo.com/22245914) by Lorenzo Bravi

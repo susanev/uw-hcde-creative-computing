@@ -5,7 +5,9 @@ _HCDE 598 Winter 2017_
 _Due Saturday, 01/28, at 9pm_
 
 ### Goals
-You will program your very own lego family. You can base it off a TV show (Simpsons is shown below), a movie, a comic, or even your own family if you want. Look [here](https://www.prote.in/journal/articles/imagine-by-lego) for more inspiration. This assignment will also help you practice with functions, variables, declarations and assignment statements. These ideas help make computations dynamic in interesting ways.
+You will program your very own Lego family. You can base it off a TV show (Simpsons is shown below), a movie, a comic, or even your own family if you want. Look [here](https://www.prote.in/journal/articles/imagine-by-lego) for more inspiration. This assignment will also help you practice with functions, variables, declarations and assignment statements. These ideas help make computations dynamic in interesting ways.
+
+![alt text][simpsons]
 
 ### Review
 * Sizes are always given width before height
@@ -24,7 +26,7 @@ A variable holds a value that can change through the program. Variables are impo
 
 ### Specification
 * Your Lego Family project should have a background color that is not white
-* Ideally your canvas will be around 900 x 600 or larger
+* Your canvas size should take up at least 3/4 of your screen size; work big .. not small!
 * Each character should be made out of rectangles, but feel free to add in more details with other shapes (like Maggie's pacifier—an ellipse)
 * At least 3 different fill colors should be used for your family
 * Your family needs to consist of a minimum of 3 characters
@@ -38,10 +40,14 @@ A variable holds a value that can change through the program. Variables are impo
 	* Note: you will be submitting your sketches, so keep them with you.
 2. Program basic family
 	Program your family in the center of the screen, making sure each character lines up on the same baseline (reference the Simpson family portrait)
+
+	![alt text][simpsons-middle]
 3. Add variables
 	* At the top of your code add an x position and y position variable for each family member, then add these variables into your code as shown in class
 	* Examples for the Simpson's variables are shown below
 	* Run your code, and make sure each character is now starting in a corner.
+
+	![alt text][simpsons-corners]
 
 4. Move your family
 	* Program your family to start in the corners and move to the center of the screen
@@ -62,3 +68,9 @@ Add your Lego family to your Github portfolio and submit a link to this project 
 
 ### Reference
 * [Lego Family Inspiration](https://www.prote.in/journal/articles/imagine-by-lego)
+
+[simpsons]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week2/exercises/images/simpsons.png "Simpsons Lego Family"
+
+[simpsons-middle]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week2/exercises/images/simpsons_middle.png "Simpsons Lego Family in the middle of the screen"
+
+[simpsons-corners]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week2/exercises/images/simpsons_corners.png "Simpsons Lego Family in the corners of the screen"
