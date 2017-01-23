@@ -42,7 +42,6 @@ _HCDE 598 Winter 2017_
 * Introduce Face exercise, show [video](https://vimeo.com/22245914)
 * Show example
 * Demonstrate adding functions
-* GRAPH PAPER!
 * In-class time (30 minutes) to create a face
 
 ### Parameter Introduction (20 minutes)
