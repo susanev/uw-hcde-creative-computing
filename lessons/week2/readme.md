@@ -35,4 +35,4 @@ _HCDE 598 Winter 2017_
 ... coming soon.
 
 ## Homework
-* [Custom Lego family](homework/lego-family.md) Due Saturday, 01/18, 9pm
+* [Custom Lego family](homework/lego-family.md) Due Saturday, 01/28, 9pm
