@@ -58,7 +58,10 @@ You will program your very own Lego family. You can base it off a TV show (Simps
 	* To do this you will want to use the `min` or `max` functions as shown in class
 
 ### Submission
-Add your Lego family to your Github portfolio and submit a link to this project on canvas.
+* Your code should have a top comment block with your name, last edited date, and a brief description of the entire program
+* Each line in setup and draw should have a comment
+* Each function that you created should have a top comment briefly explaining what that function does (note that setup and draw do not need top comments)
+* Add your Lego family to your Github portfolio and submit a link to this project on canvas
 
 ### Extra Challenge
 * Add more custom details to your family
