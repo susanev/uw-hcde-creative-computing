@@ -61,7 +61,7 @@ _HCDE 598 Winter 2017_
 ### Ball Demo (10 minutes)
 * Focus on demonstrating assignment statements
 
-### Homework Introduction (10 minutes)
+### [Homework](homework/lego-family.md) Introduction (10 minutes)
 * Introduce homework assignment
 * Go over rubric
 
