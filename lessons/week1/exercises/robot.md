@@ -59,12 +59,12 @@ If you want to challenge yourself with this project try out any of the items bel
 ### Reference
 This assignment is inspired by the robot code provided by [Casey Reas](http://reas.com/) and [Ben Fry](http://benfry.com/) in the Make:Getting Started with Processing book.
 
-[static]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/lessons/week1/exercises/images/code_not_dynamic.png "Code that is not dynamic"
+[static]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week1/exercises/images/code_not_dynamic.png "Code that is not dynamic"
 
-[dynamic]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/lessons/week1/exercises/images/code_dynamic.png "Code that is dynamic"
+[dynamic]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week1/exercises/images/code_dynamic.png "Code that is dynamic"
 
-[diagram]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/lessons/week1/exercises/images/diagram.png "diagram showing how setup and draw flow"
+[diagram]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week1/exercises/images/diagram.png "diagram showing how setup and draw flow"
 
-[part 3 code]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/lessons/week1/exercises/images/part3_code.png "Additional lines of code to add"
+[part 3 code]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week1/exercises/images/part3_code.png "Additional lines of code to add"
 
 
