@@ -23,9 +23,7 @@ _HCDE 598 Winter 2017_
 * Functions and Parameters
 
 ## Exercises
-* Responsive face (exercise)
-  * Create a face (human, robot, animal, etc). Using a sound library, variables, and conditionals program it to react to different sound levels
-  * Functions should be used to represent each portion of the face
+* [Responsive face](exercises/face.md)
 
 ## Debrief
 * What new things did you learn today?
@@ -34,13 +32,7 @@ _HCDE 598 Winter 2017_
 * What can be improved for future classes?
 
 ## Resources
-* [How to add projects to your Github portfolio video](https://youtu.be/M-bNnVwBHUY)
-* [Week 1 exercises video](https://youtu.be/TNEm5U8tnhQ)
-* [Week 1 homework video](https://youtu.be/QhvBb-69quY)
+... coming soon.
 
 ## Homework
-* Custom lego family (homework #2)
-  * Create a custom lego family that starts at the corners of the screen and moves towards the center
-  * Using variables, functions, conditionals
-* [Personal values](homework/personal_values.md) Due Sunday, 01/15
-* [Digitize an analog piece of art](homework/digitize.md) Due Saturday, 01/21
+* [Custom Lego family](homework/lego-family.md) Due Saturday, 01/18, 9pm

@@ -5,6 +5,8 @@ _HCDE 598 Winter 2017_
 
 ### Introduction (5 minutes)
 * Introduction of me and the class
+	* Experience!
+	* All the languages! Why p5.js?
 	* 2 breaks each class, 10 minutes at 7:00pm, and 5 minutes at 8:00pm
 	* Laptops in class
 	* UW: In general, courses require two hours of homework for every hour of class; as such, I expect you to be working for ~6 hours on homework each week, this will be different for everyone. If you feel as though you are spending significantly more than 6 hours on homework each week and you would rather not be, lets talk about it
