@@ -37,6 +37,7 @@ _HCDE 598 Winter 2017_
 
 ## Resources
 * [Code examples](code)
+* [Functions Video](https://youtu.be/PbUObX7JVlw)
 
 ## Homework
 * [Custom Lego family](homework/lego-family.md) Due Saturday, 01/28, 9pm
