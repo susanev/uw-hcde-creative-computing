@@ -6,11 +6,15 @@ _HCDE 598 Winter 2017_
 * Review the comments you received on your [Digitize](../week1/homework/digitize.md) assignment and update your code to address the comments if time allows
 * Review and be prepared to talk with others about your [Digitize](../week1/homework/digitize.md) assignment
 
-## Goals
+## Learning Objectives
 * Learn about the course and your classmates
 * Understand programming flow of static and dynamic programs in p5.js
-* Understand programming flow when using functions
+* Understand how programming flow changes when using functions
 * Understand and be able to use functions and parameters
+* Understand how the animation loop works in p5.js
+* Be able to create and use variables in your code
+* Be able to increment (add a value to a variable), and decrement (subtract a value from a variable)
+* Understand and be able to use the max and min functions
 
 ## Warm up
 * Introductions
