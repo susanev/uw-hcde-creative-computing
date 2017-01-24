@@ -65,4 +65,4 @@ _HCDE 598 Winter 2017_
 * Introduce homework assignment
 * Go over rubric
 
-### [Debrief](readme.md) (10 minutes)
+### [Debrief](readme.md#debrief) (10 minutes)
