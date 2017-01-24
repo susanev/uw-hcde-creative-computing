@@ -13,7 +13,7 @@ _HCDE 598 Winter 2017_
 * Understand and be able to use functions and parameters
 * Understand how the animation loop works in p5.js
 * Be able to create and use variables in your code
-* Be able to increment (add a value to a variable), and decrement (subtract a value from a variable)
+* Be able to increment (add a value), and decrement (subtract a value) from a variable
 * Understand and be able to use the max and min functions
 
 ## Warm up
