@@ -43,7 +43,7 @@ _HCDE 598 Winter 2017_
 
 ### Break (7pm—10 minutes)
 
-### [Face Exercise](exercises/face.md)(40 minutes)
+### [Face Exercise](exercises/face.md) (40 minutes)
 * Introduce Face exercise, show [video](https://vimeo.com/22245914)
 * Show example
 * Demonstrate adding functions
@@ -55,7 +55,7 @@ _HCDE 598 Winter 2017_
 
 ### Break (8pm—5 minutes)
 
-### [Face Exercise](exercises/face.md) Continued(20 minutes)
+### [Face Exercise](exercises/face.md) Continued (20 minutes)
 * You should finish and post your face to your github portfolio, but you will not be turning this in
 
 ### Ball Demo (10 minutes)
@@ -65,4 +65,4 @@ _HCDE 598 Winter 2017_
 * Introduce homework assignment
 * Go over rubric
 
-### Debrief (10 minutes)
+### [Debrief](readme.md) (10 minutes)
