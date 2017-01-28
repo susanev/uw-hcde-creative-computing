@@ -1,5 +1,6 @@
 | Student | Link |
 | :--- | :--- |
+| Julie | [https://jstu2.github.io/JS_HCDE_portfolio/](https://jstu2.github.io/JS_HCDE_portfolio/) |
 | Nichole | [https://nicholekim.github.io/portfolio/](https://nicholekim.github.io/portfolio/) |
 | Layne | [https://lsoike.github.io/portfolio/](https://lsoike.github.io/portfolio/) |
 | Livia | [https://liviaclaire.github.io/hcde-portfolio/](https://liviaclaire.github.io/hcde-portfolio/) |
