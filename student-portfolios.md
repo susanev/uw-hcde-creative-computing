@@ -13,4 +13,5 @@
 | Nichole | [https://nicholekim.github.io/portfolio/](https://nicholekim.github.io/portfolio/) |
 | Rachel | [https://rachelbarnacle.github.io/hcde-598-portfolio/](https://rachelbarnacle.github.io/hcde-598-portfolio/) |
 | Sang | [https://skatkddn.github.io/portfolio/](https://skatkddn.github.io/portfolio/) |
+| Tess | [https://tws123.github.io/portfolio598Class/](https://tws123.github.io/portfolio598Class/) |
 | Zack R. | [https://zjrobinson90.github.io/portfolio/](https://zjrobinson90.github.io/portfolio/) |
