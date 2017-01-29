@@ -72,7 +72,8 @@ This assignment will help you practice using if-statements, to allow your progra
 * Add an interesting moving background
 
 ### Reference
-*
+* Daniel Shiffman [conditionals video 1](https://vimeo.com/138935676)
+* Daniel Shiffman [conditionals video 2](https://vimeo.com/138935678)
 
 [robot]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week3/homework/images/robot.png "Robot"
 
