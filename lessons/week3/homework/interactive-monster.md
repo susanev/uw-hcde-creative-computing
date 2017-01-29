@@ -12,7 +12,7 @@ This assignment will help you practice using if-statements, to allow your progra
 * Your monster must be in its own function with parameters
 * Your monster must be able to switch between jumping and eye movements when the user clicks the mouse
 
-### Task
+### Tasks
 1. Create a own customized monster, it should have it's very own function with parameters to control its position. It should have at least 1 leg and at least 1 eye, but everything else is up to you. Some inspiration is shown below, but remember this monster should be your very own and not a copy of someone else's. As usual please sketch your ideas before you start to code and save those sketches as you will be submitting them with your portfolio link.
 
 	![alt text][robot]
