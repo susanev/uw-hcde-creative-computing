@@ -28,8 +28,7 @@ This assignment will help you practice using if-statements, to allow your progra
 		// call your monster function
 		// add two if statements here as described in step 4
 
-	} 
-	else {
+	} else {
 		// call your monster function
 		// add if statement described in step 5 here
 	}
