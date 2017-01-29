@@ -6,6 +6,7 @@
 | Jessica | [https://sijiabao.github.io/hcde598-portfolio/](https://sijiabao.github.io/hcde598-portfolio/) |
 | Julie | [https://jstu2.github.io/JS_HCDE_portfolio/](https://jstu2.github.io/JS_HCDE_portfolio/) |
 | Kelly | [https://kellyjeangraham.github.io/portfolio/](https://kellyjeangraham.github.io/portfolio/) |
+| Laura | [https://lauraeise.github.io/portfolio/](https://lauraeise.github.io/portfolio/)
 | Layne | [https://lsoike.github.io/portfolio/](https://lsoike.github.io/portfolio/) |
 | Livia | [https://liviaclaire.github.io/hcde-portfolio/](https://liviaclaire.github.io/hcde-portfolio/) |
 | Lulu | [https://lusquared.github.io/HCDE-598-Portfolio/](https://lusquared.github.io/HCDE-598-Portfolio/) |
