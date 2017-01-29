@@ -44,7 +44,6 @@ You will program your very own Lego family. You can base it off a TV show (Simps
 3. Add variables
 	* At the top of your code add an x position and y position variable for each family member, then add these variables into your code to reposition your family at the corners of your canvas
 	* If you have 3 characters, pick your 3 corners, if you have 4 characters use all 4 corners, if you have more than 4 characters you can have multiple characters start in a corner
-	* Examples for the Simpson's variables are shown below
 	* Run your code, and make sure each character is now starting in a corner
 
 	![alt text][simpsons-corners]
