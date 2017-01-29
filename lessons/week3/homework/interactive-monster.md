@@ -27,7 +27,6 @@ This assignment will help you practice using if-statements, to allow your progra
 	if (page == 0) {
 		// call your monster function
 		// add two if statements here as described in step 4
-
 	} else {
 		// call your monster function
 		// add if statement described in step 5 here
@@ -36,7 +35,7 @@ This assignment will help you practice using if-statements, to allow your progra
 
 	Notice, that your `draw` function should have a total of 2 calls to your monster function, if you have a third call outside the if/else statements you should remove it before moving on to the next step.
 
-1. Add a mousePressed function that will switch between your two pages. If your monster is jumping and you user clicks then it should switch to the moving eye monster, if they click again it should switch back to the jumping monster .. and so on.
+1. Add a `mousePressed` function that will switch between your two pages. If your monster is jumping and you user clicks then it should switch to the moving eye monster, if they click again it should switch back to the jumping monster .. and so on.
 
 	To do this you will add `page = 1 - page;` into your mousePressed function.
 
@@ -44,13 +43,13 @@ This assignment will help you practice using if-statements, to allow your progra
 
 1. Write code to move your eye(s). First add a variable at the top named `eyeDirection` and set its value to `0`. 
 
-	Add `eyeDirection` to the eye's x position in your monster function. (Before proceeding, temporarily initialize `eyeDirection` to `10` and to `-10`, and notice that the eye should look right and then left; then set it back to `0`.)
+	Add `eyeDirection` to the x position of your monster's eye(s). Before proceeding, temporarily initialize `eyeDirection` to `10` and to `-10`, and notice that the eye should look right and then left; then set it back to `0`.
 
-	Add two if statements to draw as shown in step 2. This if-statement should determine if the eye should move left or right based on the mouse's x-position. Notice that you will probably want to increment your eyeDirection variable by 0.5 instead of 1 so it moves slowly.
+	Add two if statements to draw as shown in step 2. These if-statements should determine if the eye should move left or right based on the mouse's x-position. Notice that you will probably want to increment your eyeDirection variable by 0.5 instead of 1 so it moves slowly.
 
 	You will also want to use min/max to prevent your monster's eye from leaving its face.
 
-	Test your code. The eye should move when the mouse is on each side; it should not move if the mouse is in the 40 pixel “middle range.” 
+	Test your code. The eye should move when the mouse is on each side. You can decide whether the eyes should still move when the mouse is between them.
 
 1. Write code so that your monster jumps up and down. To start define two variables at the top: `jumpValue`, and `jumpDir`, you decide on the values for your monster.
 
