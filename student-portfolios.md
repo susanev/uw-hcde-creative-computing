@@ -5,7 +5,7 @@
 | Danielle | [https://dteska.github.io/hcde-portfolio/](https://dteska.github.io/hcde-portfolio/) |
 | Jessica | [https://sijiabao.github.io/hcde598-portfolio/](https://sijiabao.github.io/hcde598-portfolio/) |
 | Josh B. | [https://nomad1721.github.io/hcde-portfolio/](https://nomad1721.github.io/hcde-portfolio/) |
-| Josh L. | |
+| Josh L. | [https://joleibs.github.io/hcde-portfolio/](https://joleibs.github.io/hcde-portfolio/) |
 | Julie | [https://jstu2.github.io/JS_HCDE_portfolio/](https://jstu2.github.io/JS_HCDE_portfolio/) |
 | Kelly | [https://kellyjeangraham.github.io/portfolio/](https://kellyjeangraham.github.io/portfolio/) |
 | Laura | [https://lauraeise.github.io/portfolio/](https://lauraeise.github.io/portfolio/)
