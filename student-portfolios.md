@@ -1,6 +1,7 @@
 | Student | Link |
 | :--- | :--- |
 | Angie | [https://angimima.github.io/hcde-portfolio](https://angimima.github.io/hcde-portfolio) |
+| Danielle | [https://dteska.github.io/hcde-portfolio/](https://dteska.github.io/hcde-portfolio/) |
 | Julie | [https://jstu2.github.io/JS_HCDE_portfolio/](https://jstu2.github.io/JS_HCDE_portfolio/) |
 | Nichole | [https://nicholekim.github.io/portfolio/](https://nicholekim.github.io/portfolio/) |
 | Layne | [https://lsoike.github.io/portfolio/](https://lsoike.github.io/portfolio/) |
