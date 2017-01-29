@@ -2,7 +2,7 @@ _HCDE 598 Winter 2017_
 # Week 2 Homework
 
 ## Interactive Monster
-_[Due Saturday, 01/28, at 9pm]()_
+_[Due Saturday, 02/04, at 9pm]()_
 
 ### Goals
 This assignment will help you practice using if-statements, to allow your program to perform different operations without interference. You will be creating a custom monster, with a moving eye(s), and jumping interactions. 
@@ -80,4 +80,4 @@ This assignment will help you practice using if-statements, to allow your progra
 
 [monster-1]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week3/homework/images/monster_1.png "Monster Example 1"
 
-[monster-2]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week3/homework/images/monster-2.png "Monster Example 2"
+[monster-2]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week3/homework/images/monster_2.png "Monster Example 2"
