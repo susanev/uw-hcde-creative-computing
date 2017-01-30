@@ -9,10 +9,9 @@ _HCDE 598 Winter 2017_
 ## Learning Objectives
 * Review and practice using functions and parameters
 * Continue to practice using max and min
-* Understand and be able to use rand
+* Understand and be able to use the functions random, dist, mousePressed, and mouseReleased
 * Continue to learn and practice with conditional statements
-* Understand and be able to use p5.js built in variables
-* Explore events in p5.js
+* Understand and be able to use p5.js built in variables: mouseX, mouseY, mouseIsPressed, frameCount
 
 ## Warm up
 * Student expectations
@@ -20,6 +19,11 @@ _HCDE 598 Winter 2017_
 * Lets talk about git and Github
 * Share your [Lego Families](../week2/homework/lego-family.md)
 * Lego family review, and work-time
+
+## Lessons
+* Events
+* Conditional statement structure
+* Functions: random, dist, mousePressed, mouseReleased
 
 ## Exercises
 * Add restart button to Lego Family

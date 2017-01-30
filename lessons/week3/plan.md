@@ -25,6 +25,26 @@ _HCDE 598 Winter 2017_
 ### Exercises (25 minutes)
 * Add restart button to Lego Family
 
+	```javascript
+	function button() {
+	  if (mouseX > 300 && mouseX < 500 && mouseY > 775 && mouseY < 825  && mouseIsPressed) {
+	    fill(0, 200, 0);
+	  } else {
+	    fill(0, 255, 0);
+	  }
+	  rect(300, 775, 200, 50, 10);
+	  fill(0);
+	  textSize(40);
+	  text("Reset", 350, 815);
+	}
+
+	function mouseReleased() {
+	  if (mouseX > 300 && mouseX < 500 && mouseY > 775 && mouseY < 825) {
+	    resetVariables();
+	  }
+	}
+	```
+
 ### Break (7pm—10 minutes)
 
 ### More Exercises (40 minutes)
