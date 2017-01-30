@@ -34,10 +34,11 @@ _HCDE 598 Winter 2017_
 
 ## Resources
 * [Code examples](code)
-* Daniel Shiffman [p5.js Variables Video](https://vimeo.com/138327548)
-* Daniel Shiffman [p5.js Function Video](https://vimeo.com/139587733)
-* Daniel Shiffman [Intro to Conditionals Video](https://vimeo.com/138935676)
-* Daniel Shiffman [More Conditionals Video](https://vimeo.com/138935678)
+* Daniel Shiffman Videos
+	* [p5.js Variables Video](https://vimeo.com/138327548)
+	* [p5.js Function Video](https://vimeo.com/139587733)
+	* [Intro to Conditionals Video](https://vimeo.com/138935676)
+	* [More Conditionals Video](https://vimeo.com/138935678)
 
 ## Homework
 * [Interactive Monster](homework/interactive-monster.md) Due Saturday, 02/04, 9pm
