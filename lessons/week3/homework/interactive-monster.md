@@ -48,7 +48,7 @@ This assignment will help you practice using if-statements, to allow your progra
 
 	Before proceeding, temporarily initialize `eyeDirection` to `10` and to `-10`, and notice that the eye should look right and then left; then set it back to `0`. If its not moving then you have a bug, try and fix it and if you are stuck reach out for help.
 
-	Add code to draw as indicated in step 2. This code should consist of conditional statements to determine if the eye should move left or right based on the mouse's x-position (hint: you will use the p5.js built in variable named `mouseX`. Notice that you will probably want to increment your eyeDirection variable by 0.5 instead of 1 so it moves slowly.
+	Add code to draw as indicated in step 2. This code should consist of conditional statements to determine if the eye should move left or right based on the mouse's x-position (hint: you will use the p5.js built in variable named `mouseX`). Notice that you will probably want to increment your eyeDirection variable by 0.5 instead of 1 so it moves slowly.
 
 	You may also consider using min/max to prevent your monster's eye from leaving its face.
 
