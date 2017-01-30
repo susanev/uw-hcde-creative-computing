@@ -9,7 +9,7 @@ This assignment will help you practice using if-statements, to allow your progra
 
 ### Specification
 * Your canvas size should take up at least 3/4 of your screen size; work big .. not small!
-* Your monster must be in its own function with parameters
+* Your monster should be created with a series of functions using parameters
 * Your monster must be able to switch between jumping and eye movements when the user clicks the mouse
 
 ### Tasks
