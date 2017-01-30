@@ -15,6 +15,7 @@ _HCDE 598 Winter 2017_
 * Explore events in p5.js
 
 ## Warm up
+* Lets talk about git and Github
 * Meet your new partner
 * Share your [Lego Families](../week2/homework/lego-family.md)
 * Lego family review, and work-time
