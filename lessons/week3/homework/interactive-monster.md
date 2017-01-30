@@ -70,7 +70,7 @@ This assignment will help you practice using if-statements, to allow your progra
 	* If you are comfortable with HTML and CSS also add your sketches to your portfolio
 
 ### Extra Challenge
-* Add code to make it look like the monster is bending its knees as it jumps (hint: you can achieve this effect my varying the length of the monster's leg)
+* Add code to make it look like the monster is bending its knees as it jumps (hint: you can achieve this effect my varying the length of the monster's leg(s))
 * We are changing monsters by clicking, as an improvement add some buttons that allows the user to switch by clicking a button instead of just any mouse click
 * Add some more interactive elements by adding more buttons and more monster versions
 * Add more custom details to your monster
