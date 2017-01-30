@@ -76,7 +76,7 @@ This assignment will help you practice using if-statements, to allow your progra
 * Add more custom details to your monster
 * Add an interesting moving background
 
-### Reference
+### Resources
 * Daniel Shiffman [conditionals video 1](https://vimeo.com/138935676)
 * Daniel Shiffman [conditionals video 2](https://vimeo.com/138935678)
 
