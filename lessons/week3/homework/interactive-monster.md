@@ -19,21 +19,22 @@ This assignment will help you practice using if-statements, to allow your progra
 	![alt text][monster-1]
 	![alt text][monster-2]
 
+	Feel free to also explore the [monster code](../code/monster) we created in class to review functions, parameters, style, and commenting.
+
 	Make sure to run your code, and ensure your monster looks as intended before moving on to the next step.
 
-1. Setup the if statements to control whether your program will display a jumping monster, or a monster with moving eyes. First start by creating a variable named `page` at the top of your code, you should set its starting value to 0. Then add the code below to draw.
+1. Setup the if statements to control whether your program will display a monster with moving eyes, or a jumping monster. First start by creating a variable named `page` at the top of your code, you should set its starting value to 0. Then add the code below to draw.
 
 	```javascript
+	// call your monster function
 	if (page == 0) {
-		// call your monster function
-		// add two if statements here as described in step 4
+		// add code here as you complete step 4
 	} else {
-		// call your monster function
-		// add if statement described in step 5 here
+		// add code here as you complete step 5
 	}
 	```
 
-	Notice, that your `draw` function should have a total of 2 calls to your monster function, if you have a third call outside the if/else statements you should remove it before moving on to the next step.
+	Notice, that your `draw` function should have a total of 1 call to your monster function.
 
 1. Add a `mousePressed` function that will switch between your two pages. If your monster is jumping and you user clicks then it should switch to the moving eye monster, if they click again it should switch back to the jumping monster .. and so on.
 
@@ -43,19 +44,23 @@ This assignment will help you practice using if-statements, to allow your progra
 
 1. Write code to move your eye(s). First add a variable at the top named `eyeDirection` and set its value to `0`. 
 
-	Add `eyeDirection` to the x position of your monster's eye(s). Before proceeding, temporarily initialize `eyeDirection` to `10` and to `-10`, and notice that the eye should look right and then left; then set it back to `0`.
+	Then find where your eye function is called from and add `eyeDirection` to your x value being passed into that eye function.
 
-	Add two if statements to draw as shown in step 2. These if-statements should determine if the eye should move left or right based on the mouse's x-position. Notice that you will probably want to increment your eyeDirection variable by 0.5 instead of 1 so it moves slowly.
+	Before proceeding, temporarily initialize `eyeDirection` to `10` and to `-10`, and notice that the eye should look right and then left; then set it back to `0`. If its not moving then you have a bug, try and fix it and if you are stuck reach out for help.
 
-	You will also want to use min/max to prevent your monster's eye from leaving its face.
+	Add code to draw as indicated in step 2. This code should consist of conditional statements to determine if the eye should move left or right based on the mouse's x-position (hint: you will use the p5.js built in variable named `mouseX`. Notice that you will probably want to increment your eyeDirection variable by 0.5 instead of 1 so it moves slowly.
+
+	You may also consider using min/max to prevent your monster's eye from leaving its face.
 
 	Test your code. The eye should move when the mouse is on each side. You can decide whether the eyes should still move when the mouse is between them.
 
+	If its working correctly, when you click it should stop you from moving the eyes, if you click again it should let you move the eyes again.
+
 1. Write code so that your monster jumps up and down. To start define two variables at the top: `jumpValue`, and `jumpDir`, you decide on the values for your monster.
 
-	In draw, add if statements along with calls to min/max to cause your monster to jump up and down repeatedly without running off of the screen. `jumpValue` is the value you are adding to the `y` position of your monster and `jumpDir` represents the speed and direction your monster is moving.
+	In draw, add an if statement to determine which way the monster should be jumping. When it hits the top it should come back down, and when it hits the bottom it should come back up. `jumpValue` is the value you are adding to the `y` position of your monster and `jumpDir` represents the speed and direction your monster is moving.
 
-	To make the monster move, change the function for your monster to add jumpValue to the y position for all of the shapes that make up the monster. 
+	If its working you should now be able to click to switch between your moving eyes and jumping monster.
 
 ### [Submission](https://canvas.uw.edu/courses/1099807/assignments/3586665)
 * Your code should have a top comment block with your name, last edited date, and a brief description of the entire program
