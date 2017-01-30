@@ -19,7 +19,7 @@ This assignment will help you practice using if-statements, to allow your progra
 	![alt text][monster-1]
 	![alt text][monster-2]
 
-	Feel free to also explore the [monster code](../code/monster) we created in class to review functions, parameters, style, and commenting.
+	Feel free to also explore the [monster code](../code/monster) we reviewed in class to review functions, parameters, style, and commenting.
 
 	Make sure to run your code, and ensure your monster looks as intended before moving on to the next step.
 
