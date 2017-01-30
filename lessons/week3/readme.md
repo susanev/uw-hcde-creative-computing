@@ -36,7 +36,7 @@ _HCDE 598 Winter 2017_
 * [Code examples](code)
 * Daniel Shiffman Videos
 	* [p5.js Variables Video](https://vimeo.com/138327548)
-	* [p5.js Function Video](https://vimeo.com/139587733)
+	* [p5.js Functions Video](https://vimeo.com/139587733)
 	* [Intro to Conditionals Video](https://vimeo.com/138935676)
 	* [More Conditionals Video](https://vimeo.com/138935678)
 
