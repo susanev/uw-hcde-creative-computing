@@ -38,7 +38,7 @@ This assignment will help you practice using if-statements, to allow your progra
 
 1. Add a `mousePressed` function that will switch between your two pages. If your monster is jumping and you user clicks then it should switch to the moving eye monster, if they click again it should switch back to the jumping monster .. and so on.
 
-	To do this you will add `page = 1 - page;` into your mousePressed function.
+	To do this you will add `page = 1 - page;` into your `mousePressed` function.
 
 	Run your code, you won't see any changes yet because you haven't written code to tell your monster to jump or move its eye but you should still see your monster and have no errors before moving on to the next step.
 
