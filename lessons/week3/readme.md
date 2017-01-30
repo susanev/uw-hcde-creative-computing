@@ -11,6 +11,7 @@ _HCDE 598 Winter 2017_
 * Continue to practice using max and min
 * Understand and be able to use the functions random, dist, mousePressed, and mouseReleased
 * Continue to learn and practice with conditional statements
+* Understand and be able to use logical operators (and, or)
 * Understand and be able to use p5.js built in variables: mouseX, mouseY, mouseIsPressed, frameCount
 
 ## Warm up
