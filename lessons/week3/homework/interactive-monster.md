@@ -1,5 +1,5 @@
 _HCDE 598 Winter 2017_
-# Week 2 Homework
+# Week 3 Homework
 
 ## Interactive Monster
 _[Due Saturday, 02/04, at 9pm]()_
