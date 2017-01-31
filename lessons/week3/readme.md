@@ -17,7 +17,6 @@ _HCDE 598 Winter 2017_
 ## Warm up
 * Student expectations
 * Meet your new partner
-* Lets talk about git and Github
 * Share your [Lego Families](../week2/homework/lego-family.md)
 * Lego family review, and work-time
 
