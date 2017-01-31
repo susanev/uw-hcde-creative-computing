@@ -5,7 +5,7 @@
     Uses functions and parameters
 */
 
-function setup(){
+function setup() {
   createCanvas(450, 850);     // creates a vertical rectangle canvas
   background(209, 153, 185);  // sets the background color to pink
   rectMode(CENTER);           // sets rects to be drawn from the center
@@ -75,11 +75,11 @@ function eyes(x, y) {
 
 // draws the wheels at the x, y location
 function wheels(x, y) {
-  fill(183,255,229);
-  stroke(209,153,185);
+  fill(183, 255, 229);
+  stroke(209, 153, 185);
   strokeWeight(2);
   ellipse(x, y, 125, 125);
-  fill(225,225,225);
+  fill(225, 225, 225);
   strokeWeight(4);
   ellipse(x, y, 100, 100);
   ellipse(x, y, 75, 75);

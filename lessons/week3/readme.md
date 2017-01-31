@@ -17,7 +17,6 @@ _HCDE 598 Winter 2017_
 ## Warm up
 * Student expectations
 * Meet your new partner
-* Lets talk about git and Github
 * Share your [Lego Families](../week2/homework/lego-family.md)
 * Lego family review, and work-time
 
@@ -40,7 +39,8 @@ _HCDE 598 Winter 2017_
 * What can be improved for future classes?
 
 ## Resources
-* [Code examples](code)
+* [Class Recording](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=588f522d-9c3c-4cc2-9e6f-5aa4e3342ac5)
+* [Code Examples](code)
 * Daniel Shiffman Videos
 	* [p5.js Variables Video](https://vimeo.com/138327548)
 	* [p5.js Functions Video](https://vimeo.com/139587733)
