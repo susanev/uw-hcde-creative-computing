@@ -5,7 +5,7 @@
     Uses functions and parameters
 */
 
-function setup(){
+function setup() {
   createCanvas(450, 850);     // creates a vertical rectangle canvas
   background(209, 153, 185);  // sets the background color to pink
   rectMode(CENTER);           // sets rects to be drawn from the center
