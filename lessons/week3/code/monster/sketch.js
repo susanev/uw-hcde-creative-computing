@@ -1,17 +1,18 @@
 /*  Originally created by Melody Hirsch
     Edited by susan evans
-    Last edited 01/29/2017
+    Last edited 01/31/2017
     Program that draws a cute robot
     Uses functions and parameters
 */
 
 function setup(){
-  createCanvas(450, 850);   // creates a vertical rectangle canvas
-  background(209,153,185);  // sets the background color to pink
-  rectMode(CENTER);         // sets rects to be drawn from the center
+  createCanvas(450, 850);     // creates a vertical rectangle canvas
+  background(209, 153, 185);  // sets the background color to pink
+  rectMode(CENTER);           // sets rects to be drawn from the center
 }
 
 function draw() {
+  background(209, 153, 185);
   monster(225, 150);        // draws the monster at 225, 150
 }
 
@@ -58,14 +59,15 @@ function ears(x, y) {
 function eyes(x, y) {
   noStroke();
   fill(183, 255, 229);
-  ellipse(x - 55, y - 5, 110, 110);
-  ellipse(x + 55, y - 5, 110, 110);
+  // outside part of eyes
   fill(209,153,185);
   ellipse(x + 40, y + 15, 55, 55);
   ellipse(x - 45, y + 15, 55, 55);
+  // middle part of eyes
   fill(225,225,225);
   ellipse(x + 40, y + 15, 40, 40);
   ellipse(x - 45, y + 15, 40, 40); 
+  // inner part of eyes
   fill(209,153,185);
   ellipse(x + 40, y + 15, 25, 25);
   ellipse(x - 45, y + 15, 25, 25);
