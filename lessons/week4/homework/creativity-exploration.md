@@ -2,7 +2,7 @@ _HCDE 598 Winter 2017_
 # Week 4 Homework
 
 ## Creativity Exploration
-_[Due Saturday, 02/11, at 9pm]()_
+_[Due Saturday, 02/11, at 9pm](https://canvas.uw.edu/courses/1099807/assignments/3598944)_
 
 ### Goals
 The purpose of this exercise is to give you a chance to explore with p5.js and use new things in creative ways.
@@ -28,7 +28,7 @@ This program simulates a beating heart using shapes, and adjusting the color.
 #### [Walking Person](../code/waling_person)
 In this program a stick figure is animated to walk forward over an abyss. Notice that the body can be moved by using our standard move-to-the-right techniques, but the legs must work differently. 
 
-### [Submission]()
+### [Submission](https://canvas.uw.edu/courses/1099807/assignments/3598944)
 * Your code should have a top comment block with your name, last edited date, and a brief description of the entire program
 * Each line in setup and draw should have a comment
 * Each function that you created should have a top comment briefly explaining what that function does (note that setup and draw do not need top comments)
