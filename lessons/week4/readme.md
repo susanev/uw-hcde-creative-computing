@@ -40,6 +40,7 @@ _HCDE 598 Winter 2017_
 
 ## Resources
 * [Code Examples](code)
+* [Git and Github Video](https://youtu.be/1FQNTda9s8M)
 
 ## Homework
 * [Creativity Exploration](homework/creativity-exploration.md) Due Saturday, 02/11, 9pm
