@@ -22,10 +22,10 @@ _These examples are meant to inspire you, you should not be recreating any of th
 #### [Seattle Rain](../code/seattle_rain)
 This program simulates the Seattle rain. This program generates droplets of a random size and one of two different (but very similar) random colors. The slow frame rate makes the action develop in kind of a hypnotic way, like Seattle rain.
 
-#### [Heart Beat](../heart)
+#### [Heart Beat](../code/heart)
 This program simulates a beating heart using shapes, and adjusting the color.
 
-#### [Walking Person](../waling_person)
+#### [Walking Person](../code/waling_person)
 In this program a stick figure is animated to walk forward over an abyss. Notice that the body can be moved by using our standard move-to-the-right techniques, but the legs must work differently. 
 
 ### [Submission]()
