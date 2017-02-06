@@ -43,6 +43,10 @@ In this program a stick figure is animated to walk forward over an abyss. Notice
 * Add your creative exploration projects to your Github portfolio and submit a link to this project on canvas along with an image of your sketches
 	* If you are comfortable with HTML and CSS also add your sketches to your portfolio
 
+### Resources
+* [Assignment Explanation Video](https://youtu.be/ThXamlc5Sew)
+* Daniel Shiffman's [p5.js Videos](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=14)
+
 [rain]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week4/homework/images/seattle_rain.png "Seattle Rain Project"
 
 [heart]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week4/homework/images/heart.png "Beating Heart Project"
