@@ -19,6 +19,8 @@ _Note: Grading on this assignment will not be as specific as past assignments. A
 ### Examples
 _These examples are meant to inspire you, you should not be recreating any of these directly. If you want to build off one of these projects that is okay as long as you dive deep and modify it to create something new._
 
+_Note: Only images are shown below, you will need to run the program on your own computer for the full visual experience._
+
 #### [Seattle Rain](../code/seattle_rain)
 This program simulates the Seattle rain. This program generates droplets of a random size and one of two different (but very similar) random colors. The slow frame rate makes the action develop in kind of a hypnotic way, like Seattle rain.
 
