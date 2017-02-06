@@ -28,6 +28,7 @@ _HCDE 598 Winter 2017_
 * for loops
 
 ## Exercises
+* Kitty Image Example
 * Color Checker
 * Color filters
 
@@ -38,7 +39,6 @@ _HCDE 598 Winter 2017_
 * What can be improved for future classes?
 
 ## Resources
-* [Class Recording]()
 * [Code Examples](code)
 
 ## Homework
