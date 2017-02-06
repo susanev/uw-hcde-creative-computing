@@ -14,7 +14,7 @@ The goal is for your programs to not be too complex, but rather explore with dif
 
 _Note: You may work individually or in a pair on this assignment. If you work as a pair you need to let me know who you are working with no later than Tuesday 02/07 by 9pm via Slack direct message. Those working in pairs must physically be together for all project coding._
 
-_Note: Grading on this assignment will not be as specific as past assignments. As long as you try something new, use correct style including indentation and commenting then you will receive full credit._
+_Note: Grading on this assignment will not be as specific as past assignments. As long as you try something new and interesting, use correct style including indentation and commenting then you will receive full credit._
 
 ### Examples
 _These examples are meant to inspire you, you should not be recreating any of these directly. If you want to build off one of these projects that is okay as long as you dive deep and modify it to create something new._
