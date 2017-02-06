@@ -41,8 +41,8 @@ In this program a stick figure is animated to walk forward over an abyss. Notice
 * Add your creative exploration projects to your Github portfolio and submit a link to this project on canvas along with an image of your sketches
 	* If you are comfortable with HTML and CSS also add your sketches to your portfolio
 
-[rain]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week4/homework/images/seattle-rain.png "Seattle Rain Project"
+[rain]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week4/homework/images/seattle_rain.png "Seattle Rain Project"
 
-[heart]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week4/homework/images/monster_1.png "Beating Heart Project"
+[heart]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week4/homework/images/heart.png "Beating Heart Project"
 
-[walking-person]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week4/homework/images/monster_2.png "Walking Person Project"
+[walking-person]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week4/homework/images/walking_person.png "Walking Person Project"
