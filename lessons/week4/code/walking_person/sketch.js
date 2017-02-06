@@ -1,3 +1,8 @@
+/*  Written by Susan Evans
+    Last edited 02/06/2017
+    Animaties a walking person
+*/
+
 var leg = 0;        // keeps track of which leg to move
 var x = 0;          // the current x position of the person
 var leftStep = 0;   // current left step of person
