@@ -22,11 +22,17 @@ _These examples are meant to inspire you, you should not be recreating any of th
 #### [Seattle Rain](../code/seattle_rain)
 This program simulates the Seattle rain. This program generates droplets of a random size and one of two different (but very similar) random colors. The slow frame rate makes the action develop in kind of a hypnotic way, like Seattle rain.
 
+![alt text][rain]
+
 #### [Heart Beat](../code/heart)
 This program simulates a beating heart using shapes, and adjusting the color.
 
+![alt text][heart]
+
 #### [Walking Person](../code/waling_person)
 In this program a stick figure is animated to walk forward over an abyss. Notice that the body can be moved by using our standard move-to-the-right techniques, but the legs must work differently. 
+
+![alt text][walking-person]
 
 ### [Submission](https://canvas.uw.edu/courses/1099807/assignments/3598944)
 * Your code should have a top comment block with your name, last edited date, and a brief description of the entire program
@@ -34,3 +40,9 @@ In this program a stick figure is animated to walk forward over an abyss. Notice
 * Each function that you created should have a top comment briefly explaining what that function does (note that setup and draw do not need top comments)
 * Add your creative exploration projects to your Github portfolio and submit a link to this project on canvas along with an image of your sketches
 	* If you are comfortable with HTML and CSS also add your sketches to your portfolio
+
+[rain]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week4/homework/images/seattle-rain.png "Seattle Rain Project"
+
+[heart]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week4/homework/images/monster_1.png "Beating Heart Project"
+
+[walking-person]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week4/homework/images/monster_2.png "Walking Person Project"
