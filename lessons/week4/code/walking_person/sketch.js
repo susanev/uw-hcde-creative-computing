@@ -57,8 +57,7 @@ function person() {
   // body
   line(100 + x, 110, 100 + x, 140);
   line(100 + x, 125, 80 + x, 110);
-  line(100 + x, 125, 120 + x, 110);
-  
+  line(100 + x, 125, 120 + x, 110); 
   // legs
   line(100 + x, 140, 90 + leftStep, 170);
   line(100 + x, 140, 110 + rightStep, 170);
