@@ -31,7 +31,7 @@ This program simulates a beating heart using shapes, and adjusting the color.
 
 ![alt text][heart]
 
-#### [Walking Person](../code/waling_person)
+#### [Walking Person](../code/walking_person)
 In this program a stick figure is animated to walk forward over an abyss. Notice that the body can be moved by using our standard move-to-the-right techniques, but the legs must work differently. 
 
 ![alt text][walking-person]
