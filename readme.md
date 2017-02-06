@@ -21,11 +21,11 @@ Students will explore the essentials of Computer Science including: creativity o
 ### [Week 2](lessons/week2)
 * [Code](lessons/week2/code)
 * [Exercises](lessons/week2/exercises)
-* [Homework](lessons/week2/homework)
+* [Homework](lessons/week2/homework/lego-family.md)
 
 ### [Week 3](lessons/week3)
 * [Code](lessons/week3/code)
-* [Homework](lessons/week3/homework)
+* [Homework](lessons/week3/homework/interactive-monster.md)
 
 ### [Week 4](lessons/week4)
 * [Code](lessons/week4/code)
