@@ -1,5 +1,6 @@
 ## Class 5
 ### Topics
+* Arrays
 * More Arrays
 * Data visuzlization and reading from a file
 
@@ -7,4 +8,5 @@
 * Data viz
 
 ### Homework assignments
-* Creativity partner projects
+* Arrays and elli
+
