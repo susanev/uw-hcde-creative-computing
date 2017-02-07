@@ -41,6 +41,7 @@ _HCDE 598 Winter 2017_
 ## Resources
 * [Code Examples](code)
 * [Overivew, Key Events, Fonts, Images Video](https://youtu.be/7Y0rrE-sUAg)
+* [For Loops, Gradients Video](https://youtu.be/NrExb3VUHBc)
 * [Git and Github Video](https://youtu.be/1FQNTda9s8M)
 
 ## Homework
