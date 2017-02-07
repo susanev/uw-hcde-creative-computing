@@ -28,9 +28,9 @@ _HCDE 598 Winter 2017_
 * for loops
 
 ## Exercises
-* Kitty Image Example
-* Color Checker
-* Color filters
+* Key Pressed Examples
+* Font Example
+* Image Example
 
 ## Debrief
 * What new things did you learn today?
