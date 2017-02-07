@@ -2,11 +2,10 @@ _HCDE 598 Winter 2017_
 # Week 4 Code
 
 ## In-class Examples
-* [Rotating Square](rotating_square)
-* [Rotating Rect](rotating_rect)
-* [Image Example](image_example)
-* [Key Events Example](keyExample)
-* [Text Example](text_example)
+* [Key Typed Red Green Blue](keyTypedRedGreenBlue)
+* [Key Pressed Moving Ball](keyIsPressedMovingBall)
+* [Font Example](fontExample)
+* [Image Example](imageExample)
 
 ## Homework Examples
 * [Seattle Rain](seattle_rain)
