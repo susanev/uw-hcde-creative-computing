@@ -32,7 +32,7 @@ _HCDE 598 Winter 2017_
 	| Saturday, 02/25, 9pm | Data visualization |
 	| Sunday, 02/26, 9pm | Customize HTML/CSS of portfolio (3pts, participation) |
 	| Sunday, 03/12, 9pm | Final project (code+video) |
-	| Monday, 03/13, 6pm | In-class presentation |
+	| Monday, 03/13, 6pm | Final project in-class presentation |
 	| Saturday, 03/18, 9pm | Class reflection |
 
 * [Programming is hard, but you're doing great!](programming-is-hard-youre-doing-great)
