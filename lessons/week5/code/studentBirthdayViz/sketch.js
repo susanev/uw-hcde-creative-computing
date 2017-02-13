@@ -1,6 +1,6 @@
 /*  Created by susan evans
     Last edited 02/12/2017
-    This program displays a visualiations of the most popular
+    This program displays a visualizations of the most popular
     birthdays of the year.
     
     INCOMPLETE VERSION
