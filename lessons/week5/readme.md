@@ -35,7 +35,7 @@ _HCDE 598 Winter 2017_
 	| Monday, 03/13, 6pm | Final project in-class presentation |
 	| Saturday, 03/18, 9pm | Class reflection |
 
-* [Programming is hard, but you're doing great!](programming-is-hard-youre-doing-great)
+* [Programming is hard, but you're doing great!](programming-is-hard-youre-doing-great.md)
 * Meet your new partner
 * Share your [Creativity Exploration](../week4/homework/creativity-exploration.md) assignment
 
