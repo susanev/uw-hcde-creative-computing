@@ -3,6 +3,7 @@ _HCDE 598 Winter 2017_
 
 ## Data Visualization
 _[Due Saturday, 02/25, at 9pm](https://canvas.uw.edu/courses/1099807/assignments/3604697)_
+
 _Note: You have 2 weeks to complete this assignment._
 
 ### Goals
