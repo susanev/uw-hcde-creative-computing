@@ -17,9 +17,13 @@ _HCDE 598 Winter 2017_
 * Search Google for the answers
 * Ask questions, then more question, and keep asking questions
 
+![alt text][i-can]
+
 ### References
 _Thanks to [Crystal Hess](https://www.linkedin.com/in/crystaljhess/) for gathering most of this content_
 
 [two-stages]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week5/two_stages.png "Two Stages of Every Programmer"
 
 [your-plan]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week5/your_plan.jpg "Your Plan vs Reality"
+
+[i-can]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week5/i_can_do_this.png "I may not be ready, but I can do this"
