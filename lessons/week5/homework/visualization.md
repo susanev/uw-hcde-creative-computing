@@ -16,7 +16,8 @@ Your program should use loops(for or while, or both), arrays, functions and para
 This is a much more challenging assignment then past assignments and as such you will have two weeks to complete it. You should complete your program in stages, and reach out to your instructor if you get stuck or need any help along the way.
 
 ### Tips
-* Choose a small dataset, or a subset of a large data set.
+* Choose a small dataset, or a subset of a large data set
+* Sketch and plan your ideas before you start to code
 * Start small, get small pieces working first; don't try and write your code all at once
 * Add in the user interactions last, after you get the visual representation of the data working
 
