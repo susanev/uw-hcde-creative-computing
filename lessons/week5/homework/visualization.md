@@ -2,7 +2,7 @@ _HCDE 598 Winter 2017_
 # Week 5 Homework
 
 ## Data Visualization
-_[Due Saturday, 02/25, at 9pm])_
+_[Due Saturday, 02/25, at 9pm](https://canvas.uw.edu/courses/1099807/assignments/3604697)_
 _Note: You have 2 weeks to complete this assignment._
 
 ### Goals
@@ -25,7 +25,7 @@ This is a much more challenging assignment then past assignments and as such you
 * Learn how to read your data from a .csv into an array, instead of storing the data directly in your program
 * Build tools that let your users manipulate the data visualization on screen
 
-### [Submission]()
+### [Submission](https://canvas.uw.edu/courses/1099807/assignments/3604697)
 * Your code should have a top comment block with your name, last edited date, and a brief description of the entire program
 * Each line in setup and draw should have a comment
 * Each function that you created should have a top comment briefly explaining what that function does (note that setup and draw do not need top comments)
