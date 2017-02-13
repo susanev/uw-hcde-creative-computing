@@ -12,8 +12,8 @@ _HCDE 598 Winter 2017_
 	* _Sometimes it took hours for me to figure the simplest things out, but I’d come to understand that the answer was out there, somewhere._
 	* _It’s not about what we already know, it’s about how we learn. It’s about the tenacity of sitting in front of a computer and googling until you find the right answer. It’s about staring at every line of code until you understand what’s going on, or googling until you do._
 
-### Most Important ADVICE
-* Write a lot of code; *practice*!
+### Most Important advice
+* Write a lot of code; __practice__!
 * Search Google for the answers
 * Ask questions, then more question, and keep asking questions
 
