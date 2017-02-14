@@ -36,5 +36,6 @@ This is a much more challenging assignment then past assignments and as such you
 ### Inspiration
 * [Dear Data](http://www.dear-data.com/theproject)
 * [Information is Beautiful](http://www.informationisbeautiful.net/)
+* [Data Visualizations](http://feltron.com/) by Nick Feltron
 * [Data Visualizations](http://www.loc.gov/pictures/search/?q=%22lot%2011931%22%20NOT%20medal&st=grid&co=anedub&loclr=blogpic) by William Edward Burghardt, 1868-1963
 * Udacity Visualization [Blog Post](http://blog.udacity.com/2015/01/15-data-visualizations-will-blow-mind.html)
