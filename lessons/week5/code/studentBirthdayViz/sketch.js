@@ -1,14 +1,10 @@
 /*  Created by susan evans
-    Last edited 02/12/2017
+    Last edited 02/13/2017
     This program displays a visualizations of the most popular
     birthdays of the year.
     
     INCOMPLETE VERSION
 */
-
-// the number of days in each month
-// in index 0 is January, in index 11 is decemebr
-var daysInMonth = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
 
 // ranks by day of the year (out of 365)
 // source unknown
@@ -27,6 +23,11 @@ var rank = [364,362,356,350,338,301,324,347,351,349,341,306,316,260,304,322,337,
         190,161,148,147,151,199,340,344,352,353,357,358,359,345,231,149,144,186,283,320,318,284,221,217,205,
         295,266,342,185,128,102,94,96,113,104,115,224,354,363,365,360,130,62,42,26,220];
 
+var numColors = 160;
+var rectWidth = 40;
+var rectHeight = 20;
+var gridOffset = 50;
+
 function setup(){
 
 }
@@ -35,14 +36,25 @@ function draw(){
 
 }
 
+// Draws the day, and month labels
+// and the labels for the gradient key
+// as well as the gradient key itself
+function drawLabels() {
+
+}
+
+// draws the grid of rectangles
+function drawGrid() {
+
+}
 
 // given the current index (out of 365)
 // returns the month (1 based)
 function getMonth(index) {
   count = 0;
   currentMonth = 1;
-  while (count + daysInMonth[currentMonth - 1] <= index) {
-    count = count + daysInMonth[currentMonth - 1];
+  while (count + getDaysInMonth(currentMonth - 1) <= index) {
+    count = count + getDaysInMonth(currentMonth - 1);
     currentMonth++;
   }
   return currentMonth;
@@ -55,7 +67,7 @@ function getDay(index) {
   currentDay = 1;
   count = 0;
   while (count < index) {
-    if (currentDay == daysInMonth[monthIndex]) {
+    if (currentDay == getDaysInMonth(monthIndex)) {
       monthIndex++;
       currentDay = 1;
     } else {
@@ -66,9 +78,21 @@ function getDay(index) {
   return currentDay;
 }
 
+// when the user hovers over a square
+// it displays the actual rank of that day
+function displayValues(){
+
+}
 
 // Given the current month (1-based)
 // returns the total number of days
 function getNumDays(monthIndex) {
+
+}
+// 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31
+// takes in a month, zero based
+// and returns the days in that month
+// 0 is January, 11 is December
+function getDaysInMonth(month) {
 
 }
