@@ -169,6 +169,7 @@ function getNumDays(monthIndex) {
   // so send it back to whichever method called it
   return dayTotal;
 }
+
 // 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31
 // takes in a month, zero based
 // and returns the days in that month
