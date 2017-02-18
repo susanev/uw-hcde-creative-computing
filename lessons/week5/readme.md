@@ -22,8 +22,8 @@ _HCDE 598 Winter 2017_
 	| :--- | :--- |
 	| 02/20 | No class, President's day |
 	| 02/27 | Tile game, objects, start final project |
-	| 02/06 | Physics simulations, final project work time |
-	| 02/13 | Final project presentations |
+	| 03/06 | Physics simulations, final project work time |
+	| 03/13 | Final project presentations |
 
 * Assignments for the rest of the quarter
 
