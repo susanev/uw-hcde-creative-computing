@@ -19,8 +19,8 @@ _Topics: Installfest, git, github, why p5.js, environment setup, using the refer
 * [Installfest](lessons/week1/installfest.md)
 * [Portfolio Setup](lessons/week1/portfolio.md)
 * [Exercises](lessons/week1/exercises)
-* [HW: Personal Values](lessons/week1/homework/personal_values.md)
-* [HW: Digitize an analog piece of art](lessons/week1/homework/digitize.md)
+* [Homework: Personal Values](lessons/week1/homework/personal_values.md)
+* [Homework: Digitize an analog piece of art](lessons/week1/homework/digitize.md)
 
 ### [Week 2](lessons/week2)
 _Topics: Programming flow, animation loops, functions, parameters, variables, max, min_
@@ -28,32 +28,32 @@ _Topics: Programming flow, animation loops, functions, parameters, variables, ma
 * [Overview](lessons/week2)
 * [Code](lessons/week2/code)
 * [Exercises](lessons/week2/exercises)
-* [HW: Custom Lego Family](lessons/week2/homework/lego-family.md)
+* [Homework: Custom Lego Family](lessons/week2/homework/lego-family.md)
 
 ### [Week 3](lessons/week3)
 _Topics: Conditional statements, logical operators, events, mouseX, mouseY, mouesIsPressed, frameCount, random, dist, mousePressed, mouseReleased_
 
 * [Overview](lessons/week3)
 * [Code](lessons/week3/code)
-* [HW: Interactive Monster](lessons/week3/homework/interactive-monster.md)
+* [Homework: Interactive Monster](lessons/week3/homework/interactive-monster.md)
 
 ### [Week 4](lessons/week4)
 _Topics: keyPressed events, for loops, using text and fonts, using images_
 
 * [Overview](lessons/week4)
 * [Code](lessons/week4/code)
-* [HW: Creativity Exploration](lessons/week4/homework/creativity-exploration.md)
+* [Homework: Creativity Exploration](lessons/week4/homework/creativity-exploration.md)
 
 ### [Week 5](lessons/week5)
 _Topics: Review for loops, while loops, arrays, return statements_
 
 * [Overview](lessons/week5)
 * [Code](lessons/week5/code)
-* [HW: Data Visualization](lessons/week5/homework/data-visualization.md)
+* [Homework: Data Visualization](lessons/week5/homework/data-visualization.md)
 
 ### [Week 6](lessons/week6)
-_Topics: HTML/CSS
+_Topics: HTML/CSS_
 
 * [Overview](lessons/week6)
 * [Code](lessons/week6/code)
-* [HW: Data Visualization](lessons/week5/homework/data-visualization.md)
+* [Homework: Data Visualization](lessons/week5/homework/data-visualization.md)
