@@ -9,6 +9,7 @@ Students will explore the essentials of Computer Science including: creativity o
 * [Syllabus](syllabus.md)
 * [Topic List](topic-list.md)
 * [Student Portfolios](student-portfolios.md)
+* [Final Project Information](final-project.md)
 
 ## [Lessons](lessons)
 
