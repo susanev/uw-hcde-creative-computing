@@ -13,7 +13,7 @@ Students will explore the essentials of Computer Science including: creativity o
 ## [Lessons](lessons)
 
 ### [Week 1](lessons/week1)
-_Topics: Installfest, git, github, why p5.js, environment setup, using the reference, digital color, coordinate system
+_Topics: Installfest, git, github, why p5.js, environment setup, using the reference, digital color, coordinate system_
 
 * [Overview](lessons/week1)
 * [Installfest](lessons/week1/installfest.md)
