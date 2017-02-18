@@ -4,6 +4,7 @@ _HCDE 598 Winter 2017_
 _Rough Draft, look for updates by Monday_
 
 _[Video and Code Due Sunday, 03/12, at 9pm]()_
+
 _[Presentation, Monday, 03/13, at 6pm]()_
 
 ### Goals
