@@ -8,7 +8,7 @@
 | Josh L. | [https://joleibs.github.io/hcde-portfolio/](https://joleibs.github.io/hcde-portfolio/) |
 | Julie | [https://jstu2.github.io/JS_HCDE_portfolio/](https://jstu2.github.io/JS_HCDE_portfolio/) |
 | Kelly | [https://kellyjeangraham.github.io/portfolio/](https://kellyjeangraham.github.io/portfolio/) |
-| Laura | [https://lauraeise.github.io/portfolio/](https://lauraeise.github.io/portfolio/)
+| Laura | [https://lauraeise.github.io/hcde-portfolio/](https://lauraeise.github.io/hcde-portfolio/)
 | Lauren | [https://laureninthecloud.github.io/598-Portfolio/](https://laureninthecloud.github.io/598-Portfolio/) |
 | Layne | [https://lsoike.github.io/portfolio/](https://lsoike.github.io/portfolio/) |
 | Livia | [https://liviaclaire.github.io/hcde-portfolio/](https://liviaclaire.github.io/hcde-portfolio/) |
