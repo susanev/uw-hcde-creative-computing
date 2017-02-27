@@ -29,8 +29,8 @@ _HCDE 598 Winter 2017_
 
 	| Due Date | Description |
 	| :--- | :--- |
-	| Saturday, 02/25, 9pm | Data visualization |
-	| Sunday, 02/26, 9pm | Customize HTML/CSS of portfolio (3pts, participation) |
+	| Saturday, 02/25, 9pm | [Data visualization](./homework/data-visualization.md) |
+	| Sunday, 02/26, 9pm | [Customize HTML/CSS of portfolio](https://canvas.uw.edu/courses/1099807/assignments/3610933) (3pts, participation) |
 	| Sunday, 03/12, 9pm | Final project (code+video) |
 	| Monday, 03/13, 6pm | Final project in-class presentation |
 	| Saturday, 03/18, 9pm | Class reflection |

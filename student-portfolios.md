@@ -8,12 +8,12 @@
 | Josh L. | [https://joleibs.github.io/hcde-portfolio/](https://joleibs.github.io/hcde-portfolio/) |
 | Julie | [https://jstu2.github.io/JS_HCDE_portfolio/](https://jstu2.github.io/JS_HCDE_portfolio/) |
 | Kelly | [https://kellyjeangraham.github.io/portfolio/](https://kellyjeangraham.github.io/portfolio/) |
-| Laura | [https://lauraeise.github.io/portfolio/](https://lauraeise.github.io/portfolio/)
+| Laura | [https://lauraeise.github.io/hcde-portfolio/](https://lauraeise.github.io/hcde-portfolio/)
 | Lauren | [https://laureninthecloud.github.io/598-Portfolio/](https://laureninthecloud.github.io/598-Portfolio/) |
 | Layne | [https://lsoike.github.io/portfolio/](https://lsoike.github.io/portfolio/) |
 | Livia | [https://liviaclaire.github.io/hcde-portfolio/](https://liviaclaire.github.io/hcde-portfolio/) |
 | Lulu | [https://lusquared.github.io/HCDE-598-Portfolio/](https://lusquared.github.io/HCDE-598-Portfolio/) |
-| Manny | [https://mzetino.github.io/hcde-portfolio/](https://mzetino.github.io/hcde-portfolio/) |
+| Manny | [https://mannysgithub.github.io/hcde-portfolio/](https://mannysgithub.github.io/hcde-portfolio/) |
 | Nichole | [https://nicholekim.github.io/portfolio/](https://nicholekim.github.io/portfolio/) |
 | Rachel | [https://rachelbarnacle.github.io/hcde-598-portfolio/](https://rachelbarnacle.github.io/hcde-598-portfolio/) |
 | Sam | [https://skim123.github.io/HCDE_Portfolio/](https://skim123.github.io/HCDE_Portfolio/) |
