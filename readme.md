@@ -58,3 +58,11 @@ _Topics: HTML/CSS_
 * [Overview](lessons/week6)
 * [Homework: Data Visualization](lessons/week5/homework/data-visualization.md)
 * [Homework: Portfolio HTML/CSS](lessons/week6/homework/portfolio-html-css.md)
+
+### [Week 7](lessons/week7)
+_Topics: Arrays, objects, final project_
+
+* [Overview](lessons/week7)
+* [Code](lessons/week7/code)
+* [Homework: Final Project Video and Code](../../final-project.md)
+* [Homework: Final Project Presentation](../../final-project.md)
