@@ -58,4 +58,4 @@ _Topics: HTML/CSS_
 * [Overview](lessons/week6)
 * [Code](lessons/week6/code)
 * [Homework: Data Visualization](lessons/week5/homework/data-visualization.md)
-* [Homework: Portfolio HTML/CSS](https://canvas.uw.edu/courses/1099807/assignments/3610933)
+* [Homework: Portfolio HTML/CSS](lessons/week6/homework/portfolio-html-css.md)
