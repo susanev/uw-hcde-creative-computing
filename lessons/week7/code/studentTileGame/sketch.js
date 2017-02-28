@@ -12,7 +12,7 @@ function setup() {
   // add tiles to tiles array
   // fill in the code here
   // resets board
-  reset();
+  // reset();
 }
 
 function draw() {
@@ -30,7 +30,7 @@ function draw() {
   text("Reset", 169, 368);
   
   // draw game board
-  gameBoard();
+  // gameBoard();
   // if winnder, display message
   if (won) {
     text("You won!", 100, 75);
@@ -75,7 +75,7 @@ function reset() {
 
 function mousePressed() {
   if (overResetButton()) {
-    reset();
+    // reset();
   }
 }
 
@@ -101,7 +101,7 @@ function mouseReleased() {
   }
   
   // update won variable if the user has wonn
-  won = checkWinner();
+  // won = checkWinner();
 }
 
 // returns true if the tiles are in order
