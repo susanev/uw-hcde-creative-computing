@@ -60,7 +60,7 @@ _Topics: HTML/CSS_
 * [Homework: Portfolio HTML/CSS](lessons/week6/homework/portfolio-html-css.md)
 
 ### [Week 7](lessons/week7)
-_Topics: Arrays, objects, final project_
+_Topics: Array review, tile game, final project_
 
 * [Overview](lessons/week7)
 * [Code](lessons/week7/code)

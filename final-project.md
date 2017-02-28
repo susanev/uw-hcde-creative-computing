@@ -1,8 +1,6 @@
 _HCDE 598 Winter 2017_
 # Final Project
 
-_Rough Draft, look for updates by Monday_
-
 _[Video and Code Due Sunday, 03/12, at 9pm]()_
 
 _[Presentation, Monday, 03/13, at 6pm]()_
@@ -21,6 +19,8 @@ _[Presentation, Monday, 03/13, at 6pm]()_
 * Post your ideas to the Slack channel to share with others and find a partner
 
 ### Specification
+* You must maintain a Trello board throughout the project that tracks what you have completed
+* Each partner must push edits/changes to Github for everyday that they work on something
 * Your project must be unique based on your own ideas, consulting web resources is highly recommended, but make sure your project is not the same as something else you found
 * Your project must demonstrate your ability to use variables, functions, parameters, conditional statements, loops, and arrays in your code
 * You must conduct at least 5 informal usability sessions, to get user feedback and make changes (this is required content for your presentation)

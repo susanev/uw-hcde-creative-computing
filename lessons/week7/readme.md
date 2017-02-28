@@ -12,7 +12,6 @@ _HCDE 598 Winter 2017_
 * Understand and be able to use branches in git
 * Review arrays
 * Explore a tile game to see an additional application of arrays
-* Understand the basics of objects, how to use them, and why you would want to use them
 
 ## Warm up
 * Schedule for the rest of the quarter
@@ -36,7 +35,6 @@ _HCDE 598 Winter 2017_
 ## Lessons
 * Review arrays
 * Tile Game
-* Introduction to Objects
 
 ## Final Project Work-Time
 * Walk through final project expectations
