@@ -23,7 +23,7 @@ __Final__: No standard final, instead a final project.
 ## Contact Information
 | Susan Evans, Instructor |
 | :--- |
-| Office hours: Saturday 1p – 4p |
+| Office hours: Saturday 1p – 5p |
 | Office location: Sieg 420|
 | Mail: susan@cs.washington.edu |
 
