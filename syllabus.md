@@ -102,4 +102,4 @@ To request academic accommodations due to a disability, please contact Disabled 
 Academic accommodations due to disability will not be made unless the student has a letter from DSS specifying the type and nature of accommodations needed.
 
 ## References
-* Some of the text in the _Participation_ section was borrowed from Benjamin Mako Hill's [Teaching: Assessment materials](https://mako.cc/teaching/assessment.html)
+Some of the text in the _Participation_ section was borrowed from Benjamin Mako Hill's [Teaching: Assessment materials](https://mako.cc/teaching/assessment.html)
