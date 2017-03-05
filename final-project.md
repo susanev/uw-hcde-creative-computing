@@ -1,7 +1,7 @@
 _HCDE 598 Winter 2017_
 # Final Project
 
-_[Video and Code Due Sunday, 03/12, at 9pm]()_
+_[Code Due Sunday, 03/12, at 9pm]()_
 
 _[Presentation, Monday, 03/13, at 6pm]()_
 
@@ -26,12 +26,47 @@ _[Presentation, Monday, 03/13, at 6pm]()_
 * You must conduct at least 5 informal usability sessions, to get user feedback and make changes (this is required content for your presentation)
 * You must work together with your partner, you are welcome to split up work, but you should be connecting frequently and you both must fully understand every aspect of the code
 * Your group must show movement forward in your project each week (you will demo your project to me each week)
-* You must create and submit a video showcasing your project (this can be anywhere from 2 minutes - 6 minutes, depending on the project). You can record a video, or use screen recording software (I recommend [screencast-o-matic](https://screencast-o-matic.com/))
+
+### Optionals
+* Create and submit a video showcasing your project (this can be anywhere from 2 minutes - 6 minutes, depending on the project). The video should demonstrate a run-through of the program, with a voice talking through what is happening. You can record a video, or use screen recording software (I recommend [screencast-o-matic](https://screencast-o-matic.com/))
 	* Note: You will be evaluated on your ability to tell the story of a user using your project, not on the execution of your video.
 
 ### [Submission]()
 * Your code should have a top comment block with your name, last edited date, and a brief description of the entire program
 * Each line in setup and draw should have a comment
 * Each function that you created should have a top comment briefly explaining what that function does (note that setup and draw do not need top comments)
-* Add your creative exploration projects to your Github portfolio and submit a link to this project on canvas along with an image of your sketches
-	* If you are comfortable with HTML and CSS also add your sketches to your portfolio
+* Add your final projects to your Github portfolio and submit a link to your project on Canvas
+
+### Grading Rubric
+
+#### Code
+
+| Criteria | Points |
+| :--- | :--- |
+| Group demonstrated progress after 1 week of work | 1 pt |
+| Group used Trello to track progress tasks | 1 pt |
+| Group pushed to Github often (at least 10 commits) | 1pt |
+| Showcased a complete project, that runs without errors | 2 pts |
+| Showcased a well-executed, creative project | 3 pts |
+| Used variables as appropriate | 1 pt |
+| Used functions and parameters as appropriate | 2 pts |
+| Used conditional statements as appropriate | 2 pts |
+| Used loops and arrays as appropriate | 3 pts |
+| Code is full commented as described in the Submission section | 3 pts |
+| Code uses correct style throughout as discussed in class | 3 pts |
+| Extra Credit: Group created a video, showcasing the project | 3 pts |
+
+#### Presentation 
+
+| Criteria | Points |
+| :--- | :--- |
+| Group's presentation was 5 - 10 minutes in length | 1 pt |
+| Group was prepared, and professional during the presentation | 1 pt |
+| Group clearly presented an overview of their project | 1 pt |
+| Group clearly described their project process in detail | 2 pts |
+| Group presented data collected from their usability studies and how it informed their project | 2 pts | 
+| Group demoed a live version of their program | 2 pts |
+| Group talked about the details of their code with appropriate detail | 2 pts |
+| Group talked about extensions they would like to have added if more time allowed | 1 pt |
+| Group presented what they learned from the experience, and if/how they will be moving forward with the project | 1 pt |
+| Group fielded questions about their project and code with ease | 1 pt |
