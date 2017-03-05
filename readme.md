@@ -64,5 +64,5 @@ _Topics: Array review, tile game, final project_
 
 * [Overview](lessons/week7)
 * [Code](lessons/week7/code)
-* [Homework: Final Project Video and Code](../../final-project.md)
-* [Homework: Final Project Presentation](../../final-project.md)
+* [Homework: Final Project Code](final-project.md)
+* [Homework: Final Project Presentation](final-project.md)
