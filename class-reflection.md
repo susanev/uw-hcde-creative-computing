@@ -1,5 +1,5 @@
 _HCDE 598 Winter 2017_
-# Final Project
+# Class Reflection
 
 _[Due Saturday, 03/18, at 9pm]()_
 
