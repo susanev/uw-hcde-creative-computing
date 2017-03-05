@@ -43,7 +43,7 @@ _[Presentation, Monday, 03/13, at 6pm]()_
 
 | Criteria | Points |
 | :--- | :--- |
-| Group demonstrated progress after 1 week of work | 1 pt |
+| Group demonstrated progress after the first week of work | 1 pt |
 | Group used Trello to track progress tasks | 1 pt |
 | Group pushed to Github often (at least 10 commits) | 1 pt |
 | Showcased a complete project, that runs without errors | 2 pts |
