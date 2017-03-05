@@ -1,9 +1,9 @@
 _HCDE 598 Winter 2017_
 # Final Project
 
-_[Code Due Sunday, 03/12, at 9pm]()_
+_[Code Due Sunday, 03/12, at 9pm](https://canvas.uw.edu/courses/1099807/assignments/3624548)_
 
-_[Presentation, Monday, 03/13, at 6pm]()_
+_[Presentation, Monday, 03/13, at 6pm](https://canvas.uw.edu/courses/1099807/assignments/3624549)_
 
 ### Goals
 * Demonstrate success and learning in p5.js
@@ -31,7 +31,7 @@ _[Presentation, Monday, 03/13, at 6pm]()_
 * Create and submit a video showcasing your project (this can be anywhere from 2 minutes - 6 minutes, depending on the project). The video should demonstrate a run-through of the program, with a voice talking through what is happening. You can record a video, or use screen recording software (I recommend [screencast-o-matic](https://screencast-o-matic.com/))
 	* Note: You will be evaluated on your ability to tell the story of a user using your project, not on the execution of your video.
 
-### [Submission]()
+### Submission
 * Your code should have a top comment block with your name, last edited date, and a brief description of the entire program
 * Each line in setup and draw should have a comment
 * Each function that you created should have a top comment briefly explaining what that function does (note that setup and draw do not need top comments)
