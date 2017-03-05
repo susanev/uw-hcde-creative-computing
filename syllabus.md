@@ -23,7 +23,7 @@ __Final__: No standard final, instead a final project.
 ## Contact Information
 | Susan Evans, Instructor |
 | :--- |
-| Office hours: Saturday 1p – 4p |
+| Office hours: Saturday 1p – 5p |
 | Office location: Sieg 420|
 | Mail: susan@cs.washington.edu |
 
@@ -102,4 +102,4 @@ To request academic accommodations due to a disability, please contact Disabled 
 Academic accommodations due to disability will not be made unless the student has a letter from DSS specifying the type and nature of accommodations needed.
 
 ## References
-* Some of the text in the _Participation_ section was borrowed from Benjamin Mako Hill's [Teaching: Assessment materials](https://mako.cc/teaching/assessment.html)
+Some of the text in the _Participation_ section was borrowed from Benjamin Mako Hill's [Teaching: Assessment materials](https://mako.cc/teaching/assessment.html)
