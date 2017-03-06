@@ -20,12 +20,12 @@ _HCDE 598 Winter 2017_
 
 ### Final assignments
 
-	| Assignment | Due Date |
-	| :--- | :--- |
-	| Final Project Code | Sunday, 03/12 9pm |
-	| Final Project Presentation | Monday, 03/13 6pm |
-	| Add Final Project to Personal Portfolio | Tuesday, 03/14 9pm |
-	| Class Reflection | Saturday, 03/18 9pm |
+| Assignment | Due Date |
+| :--- | :--- |
+| Final Project Code | Sunday, 03/12 9pm |
+| Final Project Presentation | Monday, 03/13 6pm |
+| Add Final Project to Personal Portfolio | Tuesday, 03/14 9pm |
+| Class Reflection | Saturday, 03/18 9pm |
 
 ## Lessons
 * Moving beyond the p5.js editor
