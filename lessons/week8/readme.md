@@ -13,9 +13,10 @@ _HCDE 598 Winter 2017_
 	* All past regular programming assignments will open up at 9am on Tuesday, March 14th and close Friday, March 17th at 9pm
 	* You may re-submit *only one assignment*
 * Class survey
-	* You will receive it tomorrow, and it will close Saturday 03/12, please fill it out honestly
+	* You will receive it tomorrow, and it will close Saturday 03/12
 	* Please complete it as soon as you can, it will help inform my future teaching and how the department structures the course in the future
-* Class next week will be in the HCDE Design Lab. Dinner will be provided, please bring your own drink.
+* Class next week will be in the HCDE Design Lab
+	* Dinner will be provided, please bring your own drink.
 
 ### Final assignments
 
