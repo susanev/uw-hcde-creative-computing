@@ -66,3 +66,11 @@ _Topics: Array review, tile game, final project_
 * [Code](lessons/week7/code)
 * [Homework: Final Project Code](final-project.md)
 * [Homework: Final Project Presentation](final-project.md)
+
+### [Week 8](lessons/week8)
+_Topics: Moving beyond the p5.js editor, objects, final project work time_
+
+* [Overview](lessons/week8)
+* [Code](lessons/week8/code)
+* [Homework: Final Project Code](final-project.md)
+* [Homework: Final Project Presentation](final-project.md)
