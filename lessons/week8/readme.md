@@ -16,7 +16,7 @@ _HCDE 598 Winter 2017_
 	* You will receive it tomorrow, and it will close Saturday 03/12
 	* Please complete it as soon as you can, it will help inform my future teaching and how the department structures the course in the future
 * Class next week will be in the HCDE Design Lab
-	* Dinner will be provided, please bring your own drinks
+	* Dinner will be provided, please bring your own non-alcoholic drinks
 
 ### Final assignments
 
@@ -25,7 +25,7 @@ _HCDE 598 Winter 2017_
 	| Final Project Code | Sunday, 03/12 9pm |
 	| Final Project Presentation | Monday, 03/13 6pm |
 	| Add Final Project to Personal Portfolio | Tuesday, 03/14 9pm |
-	| Class Reflection | Saturday, 03/18 9pm
+	| Class Reflection | Saturday, 03/18 9pm |
 
 ## Lessons
 * Moving beyond the p5.js editor
