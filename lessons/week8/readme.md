@@ -16,7 +16,7 @@ _HCDE 598 Winter 2017_
 	* You will receive it tomorrow, and it will close Saturday 03/12
 	* Please complete it as soon as you can, it will help inform my future teaching and how the department structures the course in the future
 * Class next week will be in the HCDE Design Lab
-	* Dinner will be provided, please bring your own drink.
+	* Dinner will be provided, please bring your own drinks
 
 ### Final assignments
 
