@@ -54,7 +54,7 @@ _[Presentation, Monday, 03/13, at 6pm](https://canvas.uw.edu/courses/1099807/ass
 | Used functions and parameters as appropriate | 2 pts |
 | Used conditional statements as appropriate | 2 pts |
 | Used loops and arrays as appropriate | 3 pts |
-| Code is full commented as described in the Submission section | 3 pts |
+| Code is fully commented as described in the _submission_ section | 3 pts |
 | Code uses correct style throughout as discussed in class | 3 pts |
 | Extra Credit: Group created a video, showcasing the project | 3 pts |
 
