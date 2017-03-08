@@ -46,7 +46,7 @@ _[Presentation, Monday, 03/13, at 6pm](https://canvas.uw.edu/courses/1099807/ass
 | Criteria | Points |
 | :--- | :--- |
 | Group demonstrated progress after the first week of work | 1 pt |
-| Group used Trello to track progress tasks | 1 pt |
+| Group used Trello to track progress and tasks | 1 pt |
 | Group pushed to Github often (at least 10 commits) | 1 pt |
 | Showcased a complete project, that runs without errors | 2 pts |
 | Showcased a well-executed, creative project | 3 pts |
