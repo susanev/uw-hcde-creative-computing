@@ -19,7 +19,7 @@ _[Presentation, Monday, 03/13, at 6pm](https://canvas.uw.edu/courses/1099807/ass
 * Post your ideas to the Slack channel to share with others and find a partner
 
 ### Specification
-* You must maintain a Trello board throughout the project that tracks what you have completed
+* You must maintain a Trello board throughout the project that tracks what you are planning to do, what you are wokring on, and what you are done with (along with anything else your group would like to track)
 * Each partner must push edits/changes to Github for everyday that they work on something
 * Your project must be unique based on your own ideas, consulting web resources is highly recommended, but make sure your project is not the same as something else you found
 * Your project must demonstrate your ability to use variables, functions, parameters, conditional statements, loops, and arrays in your code
