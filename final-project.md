@@ -32,7 +32,7 @@ _[Presentation, Monday, 03/13, at 6pm](https://canvas.uw.edu/courses/1099807/ass
 	* You can record a video, or use screen recording software (I recommend [screencast-o-matic](https://screencast-o-matic.com/))
 	* Note: You will be evaluated on your ability to tell the story of a user using your project, not on the execution of your video
 
-### Submission
+### Code Submission
 * Your code should have a top comment block with your name, last edited date, and a brief description of the entire program
 * Each line in setup and draw should have a comment
 * Each function that you created should have a top comment briefly explaining what that function does (note that setup and draw do not need top comments)
