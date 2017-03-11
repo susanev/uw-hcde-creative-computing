@@ -21,7 +21,7 @@ _[Presentation, Monday, 03/13, at 6pm](https://canvas.uw.edu/courses/1099807/ass
 ### Specification
 * You must maintain a Trello board throughout the project that tracks what you are planning to do, what you are wokring on, and what you are done with (along with anything else your group would like to track)
 * Each partner must push edits/changes to Github for everyday that they work on something
-* Your project must be unique based on your own ideas, consulting web resources is highly recommended, but make sure your project is not the same as something else you found
+* Your project must be unique and based on your own ideas, consulting web resources is highly recommended, but make sure your project is not the same as something else you found
 * Your project must demonstrate your ability to use variables, functions, parameters, conditional statements, loops, and arrays in your code
 * You must conduct at least 5 informal usability sessions, to get user feedback and make changes (this is required content for your presentation)
 * You must work together with your partner, you are welcome to split up work, but you should be connecting frequently and you both must fully understand every aspect of the code
