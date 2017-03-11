@@ -28,7 +28,7 @@ _[Presentation, Monday, 03/13, at 6pm](https://canvas.uw.edu/courses/1099807/ass
 * Your group must show movement forward in your project each week (you will demo your project to me each week)
 
 ### Optionals
-* Create and submit a video showcasing your project (this can be anywhere from 2 minutes - 6 minutes, depending on the project). The video should demonstrate a run-through of the program, with a voice talking through what is happening
+* Create and submit a video showcasing your project (this can be anywhere from 2 - 6 minutes, depending on the project). The video should demonstrate a run-through of the program, with a voice talking through what is happening
 	* You can record a video, or use screen recording software (I recommend [screencast-o-matic](https://screencast-o-matic.com/))
 	* Note: You will be evaluated on your ability to tell the story of a user using your project, not on the execution of your video
 
