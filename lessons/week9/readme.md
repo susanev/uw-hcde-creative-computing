@@ -14,15 +14,17 @@ _HCDE 598 Winter 2017_
 
 ### Order
 
-1. Nichole & Sang
-1. Angie & Jessica
-1. Anna & Julie
-1. Lauren & Manny
-1. Laura & Livia
-1. Rachel & Layne
-1. Josh B. & Sam
-1. Tess & Kelly
-1. Josh L. & Zack
-1. Lulu & Danielle
+| Order | People | Porject |
+| :--- | :--- | :--- |
+| 1. | Nichole & Sang | [Rock, Paper, Scissors Game](https://nicholekim.github.io/598-final/RPS/) |
+| 2. | Angie & Jessica | [Dress-up App](https://angimima.github.io/hcde-final-project/Angie-Jessica-Final/) |
+| 3. | Anna & Julie | |
+| 4. | Lauren & Manny | |
+| 5. | Laura & Livia | |
+| 6. | Rachel & Layne | |
+| 7. | Josh B. & Sam | |
+| 8. | Tess & Kelly | |
+| 9. | Josh L. & Zack | |
+| 10. | Lulu & Danielle | [Bubbles](https://dteska.github.io/598_final_project/FINAL_PROJECT/index.html) |
 
 ## Homework
