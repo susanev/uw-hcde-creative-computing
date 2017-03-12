@@ -74,3 +74,10 @@ _Topics: Moving beyond the p5.js editor, objects, final project work time_
 * [Code](lessons/week8/code)
 * [Homework: Final Project Code](final-project.md)
 * [Homework: Final Project Presentation](final-project.md)
+
+## [Week 9](lessons/week9)
+_Topics: Learning beyond this class, final project presentations_
+
+* [Overview](lessons/week9)
+* [Homework: Post Final Project on Personal Portfolio](https://canvas.uw.edu/courses/1099807/assignments/3624553)
+* [Homework: Class Reflection](class-reflection.md)
