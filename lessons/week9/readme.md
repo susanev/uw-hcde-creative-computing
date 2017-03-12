@@ -22,7 +22,7 @@ _HCDE 598 Winter 2017_
 1. Rachel & Layne
 1. Josh B. & Sam
 1. Tess & Kelly
-1. Zach & Josh L.
+1. Josh L. & Zack
 1. Lulu & Danielle
 
 ## Homework
