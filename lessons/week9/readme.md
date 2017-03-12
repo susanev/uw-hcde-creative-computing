@@ -14,7 +14,7 @@ _HCDE 598 Winter 2017_
 
 ### Order
 
-1. Nicole & Sang
+1. Nichole & Sang
 1. Angie & Jessica
 1. Anna & Julie
 1. Lauren & Manny
