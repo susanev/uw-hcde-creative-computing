@@ -31,7 +31,7 @@
 | Angie & Jessica | [Dress-up App](https://angimima.github.io/hcde-final-project/Angie-Jessica-Final/) |
 | Anna & Julie | [Shred the Gnar!](https://jstu2.github.io/JS_HCDE_portfolio/Updated_skiing/) |
 | Lauren & Manny | [Fortune Tellery](https://mannysgithub.github.io/hcde-portfolio/fortuneTeller/) |
-| Laura & Livia | [The Oregon Trail (598 Version](https://liviaclaire.github.io/hcde-portfolio/oregontail/) |
+| Laura & Livia | [The Oregon Trail (598 Version)](https://liviaclaire.github.io/hcde-portfolio/oregontail/) |
 | Rachel & Layne | [Color Me](https://rachelbarnacle.github.io/598-final-project/final/) |
 | Josh B. & Sam | [Simon Game](https://nomad1721.github.io/hcde-portfolio/598-final-project-blinky/simon_game/) |
 | Tess & Kelly | [Glitch Art](https://tws123.github.io/final-project/glitch-art/) |
