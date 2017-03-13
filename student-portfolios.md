@@ -1,3 +1,5 @@
+# Student Work
+## Student Portfolios
 | Student | Link |
 | :--- | :--- |
 | Angie | [https://angimima.github.io/hcde-portfolio](https://angimima.github.io/hcde-portfolio) |
@@ -20,3 +22,18 @@
 | Sang | [https://skatkddn.github.io/portfolio/](https://skatkddn.github.io/portfolio/) |
 | Tess | [https://tws123.github.io/portfolio598Class/](https://tws123.github.io/portfolio598Class/) |
 | Zack | [https://zjrobinson90.github.io/portfolio/](https://zjrobinson90.github.io/portfolio/) |
+
+## Student Final Projects
+
+| People | Project |
+| :--- | :--- | :--- |
+| Nichole & Sang | [Rock, Paper, Scissors Game](https://nicholekim.github.io/598-final/RPS/) |
+| Angie & Jessica | [Dress-up App](https://angimima.github.io/hcde-final-project/Angie-Jessica-Final/) |
+| Anna & Julie | [Shred the Gnar!](https://jstu2.github.io/JS_HCDE_portfolio/Updated_skiing/) |
+| Lauren & Manny | [Fortune Tellery](https://mannysgithub.github.io/hcde-portfolio/fortuneTeller/) |
+| Laura & Livia | [The Oregon Trail (598 Version](https://liviaclaire.github.io/hcde-portfolio/oregontail/) |
+| Rachel & Layne | [Color Me](https://rachelbarnacle.github.io/598-final-project/final/) |
+| Josh B. & Sam | |
+| Tess & Kelly | [Glitch Art](https://tws123.github.io/final-project/glitch-art/) |
+| Josh L. & Zack | [Car Ethics](https://zjrobinson90.github.io/portfolio/carEthics/) |
+| Lulu & Danielle | [Bubbles](https://dteska.github.io/598_final_project/FINAL_PROJECT/index.html) |
