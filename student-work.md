@@ -34,6 +34,6 @@
 | Laura & Livia | [The Oregon Trail (598 Version)](https://liviaclaire.github.io/hcde-portfolio/oregontail/) |
 | Rachel & Layne | [Color Me](https://rachelbarnacle.github.io/598-final-project/final/) |
 | Josh B. & Sam | [Simon Game](https://nomad1721.github.io/hcde-portfolio/598-final-project-blinky/simon_game/) |
-| Tess & Kelly | [Glitch Art](https://tws123.github.io/final-project/glitch-art/) |
+| Tess & Kelly | [Chuck-It](https://tws123.github.io/final-project/glitch-art/) |
 | Josh L. & Zack | [Car Ethics](https://zjrobinson90.github.io/portfolio/carEthics/) |
 | Lulu & Danielle | [Bubbles](https://dteska.github.io/598_final_project/FINAL_PROJECT/index.html) |
