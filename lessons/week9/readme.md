@@ -43,7 +43,7 @@ _HCDE 598 Winter 2017_
 | 3 | Anna & Julie | |
 | 4 | Lauren & Manny | |
 | 5 | Laura & Livia | |
-| 6 | Rachel & Layne | |
+| 6 | Rachel & Layne | [Color Me](https://rachelbarnacle.github.io/598-final-project/final/) |
 | 7 | Josh B. & Sam | |
 | 8 | Tess & Kelly | |
 | 9 | Josh L. & Zack | |
