@@ -29,7 +29,7 @@ _HCDE 598 Winter 2017_
 
 ## Presentations
 * Please be respectful of your peers and give them your undivided attention during presentations
-* After each presentation their will be time for discussion/questions, please plan to share feedback and ask any and all questions you may have
+* After each presentation there will be time for discussion/questions, please plan to share feedback and ask any and all questions you may have
   * Share what you enjoyed about their presentation
   * Share ideas/suggestions starting with the words _I wonder_ ...
 * We will take a 10 minute break about half-way through
