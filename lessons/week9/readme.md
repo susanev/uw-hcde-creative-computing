@@ -42,7 +42,7 @@ _HCDE 598 Winter 2017_
 | 2 | Angie & Jessica | [Dress-up App](https://angimima.github.io/hcde-final-project/Angie-Jessica-Final/) |
 | 3 | Anna & Julie | [Shred the Gnar!](https://jstu2.github.io/JS_HCDE_portfolio/Updated_skiing/) |
 | 4 | Lauren & Manny | [Fortune Tellery](https://mannysgithub.github.io/hcde-portfolio/fortuneTeller/) |
-| 5 | Laura & Livia | [The Oregon Trail (598 Version](https://liviaclaire.github.io/hcde-portfolio/oregontail/) |
+| 5 | Laura & Livia | [The Oregon Trail (598 Version)](https://liviaclaire.github.io/hcde-portfolio/oregontail/) |
 | 6 | Rachel & Layne | [Color Me](https://rachelbarnacle.github.io/598-final-project/final/) |
 | 7 | Josh B. & Sam | [Simon Game](https://nomad1721.github.io/hcde-portfolio/598-final-project-blinky/simon_game/) |
 | 8 | Tess & Kelly | [Chuck-It](https://tws123.github.io/final-project/glitch-art/) |
