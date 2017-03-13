@@ -6,8 +6,6 @@ _HCDE 598 Winter 2017_
 * Showcase your final project with your peers and HCDE department faculty
 * Celebrate your handwork and achievements 
 
-## Announcements
-
 ## What to Learn Next
 
 ### Communities
