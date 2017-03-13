@@ -45,7 +45,7 @@ _HCDE 598 Winter 2017_
 | 5 | Laura & Livia | [The Oregon Trail (598 Version](https://liviaclaire.github.io/hcde-portfolio/oregontail/) |
 | 6 | Rachel & Layne | [Color Me](https://rachelbarnacle.github.io/598-final-project/final/) |
 | 7 | Josh B. & Sam | |
-| 8 | Tess & Kelly | [Glitch Art](https://tws123.github.io/final-project/glitch-art/) |
+| 8 | Tess & Kelly | [Chuck-It](https://tws123.github.io/final-project/glitch-art/) |
 | 9 | Josh L. & Zack | [Car Ethics](https://zjrobinson90.github.io/portfolio/carEthics/) |
 | 10 | Lulu & Danielle | [Bubbles](https://dteska.github.io/598_final_project/FINAL_PROJECT/index.html) |
 
