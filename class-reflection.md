@@ -4,7 +4,7 @@ _HCDE 598 Winter 2017_
 _[Due Saturday, 03/18, at 9pm](https://canvas.uw.edu/courses/1099807/assignments/3624554)_
 
 ## Specification
-Your task is to produce a reflection that address the points below. You may use any media source to create your reflection, you might make a video, write a song, write a program, write an essay, or something else you decide. You can use any medium you desire. Note: If you decide to write an essay, I am expecting about a page, single spaced.
+Your task is to produce a reflection that address the points below. You may use any media source to create your reflection, you might make a video, write a poem or a song, write a program, draw a comic, write an essay, or something else you decide. You can use any medium you desire. Note: If you decide to write an essay, I am expecting about a page, single spaced.
 
 Items to address (feel free to write about other things, or expand on these items):
 * What was the best thing you learned?
