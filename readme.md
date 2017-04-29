@@ -75,7 +75,7 @@ _Topics: Moving beyond the p5.js editor, objects, final project work time_
 * [Homework: Final Project Code](final-project.md)
 * [Homework: Final Project Presentation](final-project.md)
 
-## [Week 9](lessons/week9)
+### [Week 9](lessons/week9)
 _Topics: Learning beyond this class, final project presentations_
 
 * [Overview](lessons/week9)
