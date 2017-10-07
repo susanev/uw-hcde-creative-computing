@@ -42,7 +42,7 @@ Students are expected to check Slack daily for announcements, discussions, and a
 Students will need regular access to a computer with git and p5.js installed, both are free, and available for MacOSX, Windows, and Linux.
 
 * Git: [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-* p5.js Editor: [https://p5js.org/download](https://p5js.org/download)
+* p5.js Editor: [https://github.com/processing/p5.js-editor/releases](https://github.com/processing/p5.js-editor/releases)
 
 ## Textbooks
 ### Optional
